@@ -3,6 +3,7 @@ require("dotenv").config();
 
 async function fetchPageData(url) {
   const browser = await puppeteer.launch({
+    headless: 'new',
     args: [
       "--disable-setuid-sandbox",
       "--no-sandbox",
