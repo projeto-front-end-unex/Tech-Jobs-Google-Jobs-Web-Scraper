@@ -1,6 +1,7 @@
 const { fetchPageData } = require('./scripts/fetchPageData');
 const { parseData } = require('./scripts/parseData');
 const { saveToJSON } = require('./scripts/saveToJSON');
+const { setupAPI } = require('./api/jobs.js');
 
 const jobUrls = [
   {
@@ -44,6 +45,8 @@ const jobUrls = [
   } catch (error) {
     console.error(error);
   }
+  
+  setupAPI();
   console.timeEnd('tempo-execucao');
 })();
 

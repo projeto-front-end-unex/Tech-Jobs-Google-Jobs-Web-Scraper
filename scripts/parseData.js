@@ -20,13 +20,13 @@ function parseData(html) {
     });
     
     jobs.push({
-      Title: title,
-      Salary: salary,
-      Location: location,
-      Company: company,
-      CompanyLogo: companyLogo,
-      Description: description,
-      Links: links
+      title: title,
+      salary: salary,
+      location: location,
+      company: company,
+      companyLogo: companyLogo,
+      description: description,
+      links: links
     });
   });
 
