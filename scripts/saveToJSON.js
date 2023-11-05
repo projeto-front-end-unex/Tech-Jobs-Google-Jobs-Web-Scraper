@@ -5,7 +5,6 @@ function saveToJSON(data, filename) {
     if (error) {
       throw new Error('Something went wrong, JSON not saved');
     }
-    console.log('Data saved to', filename);
   });
 }
 
