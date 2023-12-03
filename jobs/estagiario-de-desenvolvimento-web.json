@@ -1,39 +1,29 @@
 [
   {
-    "title": "Estágio: Web Design",
-    "salary": "R$ 850 por mês",
+    "title": "Estagiário de Desenvolvimento Web .NET (PCD)",
+    "salary": "R$ 11.880 ",
     "location": "Qualquer lugar",
-    "company": "Nube - Núcleo Brasileiro de Estágios",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLfwdQPGBFPxEq094bAnhNzlRzam58tEh4lrGnhk&s",
-    "description": "auxiliar na criação de banners e layouts, desenvolver e atualizar os sites, assessorar no desenvolvimento de navegação das páginas, prestar apoio nas demais atividades da área...",
+    "company": "TTY2000 Tecnologia e Sistemas",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Há mais de 27 anos atuamos no mercado de TI, somos especialistas em prover sempre as melhores soluções aos nossos clientes. Nos destacamos por termos crenças e valores praticados no dia a dia, que demonstram a nossa forma de ser, se preocupando com a transparência, ética e relacionamento.  Conhecimentos / Atividades: • Ira atuar com Desenvolvimento Web, com as tecnologias: C#, Entity Framework, ASP.NET MVC, NET Core, Angular, Web API, SQL Server, Dapper,LinQ. • Necessário conhecimento técnico com a linguagem.  Necessário está cursando superior na área de Tecnologia.  Tipo de vaga: Estágio  Salário: R$990,00 por mês  Benefícios: • Vale-alimentação  Horário de trabalho: • De segunda à sexta-feira  Tipos de pagamento adicional: • 13º salário  Pergunta(s) de seleção: • Possui alguma deficiência, se sim, qual? • Está cursando superior na área de tecnologia?",
     "links": [
       {
-        "content": "Acesse em LinkedIn",
-        "href": "https://br.linkedin.com/jobs/view/est%C3%A1gio-web-design-at-nube-n%C3%BAcleo-brasileiro-de-est%C3%A1gios-3731793921?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Estágio JavaScript rumo à efetivação",
-    "salary": "R$ 400 a R$ 1,5 mil por mês",
-    "location": "Qualquer lugar",
-    "company": "App Masters",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsD0NuGPQLOC2cErM2ADab18k1BpYMTVrcz5p_fA&s",
-    "description": "Estamos em constante movimento, efetivamos um estagiário recentemente e com isso optamos por abrir espaço para dois ou três novos estagiários.\n\nEsta oportunidade é especialmente boa para estudantes que já estão estagiando e querem caminhar rumo a efetivaç...",
-    "links": [
+        "content": "Candidatar-se no site Glassdoor",
+        "href": "https://www.glassdoor.com.br/job-listing/estagi%C3%A1rio-de-desenvolvimento-web-net-pcd-tty2000-tecnologia-e-sistemas-JV_KO0,41_KE42,71.htm?jl=1008973263012&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
       {
-        "content": "Acesse em Programadores Em Juiz De Fora",
-        "href": "https://programador.emjuizdefora.com/oportunidade/estagio-javascript-rumo-efetivacao/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Candidatar-se no site Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=9c80c5fd443a0715&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Desenvolvedor(a) Full-Stack Estágio - Full Stack",
-    "salary": "R$ 1 mil por mês",
+    "salary": "R$ 1 mil ",
     "location": "Qualquer lugar",
     "company": "AN Tecnologia",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFzUGOfDREXhtlgyALvaHW3NQF2-G7QSoX6UOpBg&s",
-    "description": "Habilidades\nCSS, HTML, JavaScript, PHP\n\nO que nós buscamos\nEstamos em busca de uma pessoa entusiasmada e comprometida para auxiliar no desenvolvimento de projetos da nossa empresa (próprios e de clientes).\n\nCarga horária de 20 horas semanais, com opção de...",
+    "description": "Habilidades CSS, HTML, JavaScript, PHP  O que nós buscamos Estamos em busca de uma pessoa entusiasmada e comprometida para auxiliar no desenvolvimento de projetos da nossa empresa (próprios e de clientes).  Carga horária de 20 horas semanais, com opção de turno pela manhã ou à tarde. Home office. Remuneração mensal de R$ 1000,00. Não é necessário ter experiência prévia.  Irá praticar princípios de programação orientada a objetos (OOP), princípios SOLID e a arquitetura Model-View-Controller (MVC).  Irá trabalhar com (e aprender) as seguintes tecnologias e ferramentas: • Linguagens de programação PHP, Javascript/Typescript e Dart (talvez um pouco de Python). • Princípios e tecnologias web HTML/CSS e relacionados • Bancos de dados MySQL e MongoDB. • Frameworks e bibliotecas Laravel, Next.js, Vue.js, React.js, JQuery, Flutter, React Native, Node.js • Ferramentas de DevOps / Cloud / Versionamento AWS, Git e Docker.  Principais responsabilidades • Vontade de aprender sobre desenvolvimento... de software, com foco na parte web e mobile. • Leitura e escrita em inglês intermediário. • Comprometimento • Boa comunicação  Descrição da empresa Empresa focada no desenvolvimento de sites, aplicativos e projetos personalizados de software com excelente custo/benefício.  Benefícios",
     "links": [
       {
         "content": "Acesse em ProgramaThor",
@@ -42,67 +32,52 @@
     ]
   },
   {
-    "title": "Web Programador",
-    "salary": "R$ 2.204,90 a R$ 3.430,66 por mês",
+    "title": "Estágio JavaScript rumo à efetivação",
+    "salary": "R$ 400 a R$ 1,5 mil ",
     "location": "Qualquer lugar",
-    "company": "Confidencial",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKEieEOqXgk5wKFhihib9VWXdPmxBqWKpJHYBq5U&s",
-    "description": "Descrição Geral:Requisitos cursando técnico ou superior em análise e desenvolvimento de sistemas e áreas afins. Desejável conhecimento em php, css, html5, javascript, bootstrap, mysql. Atividades o estagiário auxiliará na atualização, desenvolvimento e pr...",
+    "company": "App Masters",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsD0NuGPQLOC2cErM2ADab18k1BpYMTVrcz5p_fA&s",
+    "description": "Estamos em constante movimento, efetivamos um estagiário recentemente e com isso optamos por abrir espaço para dois ou três novos estagiários.  Esta oportunidade é especialmente boa para estudantes que já estão estagiando e querem caminhar rumo a efetivação.  Buscamos estudantes que já tenham aprendido o React ou o Node, ou seja, pode ter um foco mais de backend ou de frontend. Não precisa saber os dois, mas precisa conhecer bem um deles.  É importante, acima de tudo, querer aprender, saber se comunicar e gostar de desafios.  Uma vez na empresa estagiando, pensaremos \"como efetivar este estagiário em no máximo oito meses\".",
     "links": [
       {
-        "content": "Acesse em Trabalha Brasil",
-        "href": "https://www.trabalhabrasil.com.br/vagas-empregos-em-porto-alegre-rs/web-programador/9986277?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em Programadores Em Juiz De Fora",
+        "href": "https://programador.emjuizdefora.com/oportunidade/estagio-javascript-rumo-efetivacao/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
-    "title": "Estágio Desenvolvimento Web Full Stack - Remote  from PT, BR",
-    "salary": "",
+    "title": "Estágio de Desenvolvedor(a) Web Fullstack ( C# e Angular)",
+    "salary": "R$ 14,4 mil ",
     "location": "Qualquer lugar",
-    "company": "Pix Force",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST0_K74fL6e8JCdRVINbcwB-F3SRoayrsXfi4e2Fw&s",
-    "description": "This a Full Remote job, the offer is available from: Portugal, Brazil\n\n\"\n\nA Pix Force foi fundada em 2015 e, de lá pra cá, desenvolve soluções utilizando tecnologias de visão computacional , inteligência artificial e machine learning . Nossos projetos e s...",
+    "company": "Korp",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "A Viasoft Korp está há mais de 20 anos no mercado, sendo uma das principais pioneiras no ramo de soluções de gestão para indústria e distribuição. Acreditamos que podemos revolucionar o segmento industrial com o poder da tecnologia.  Hoje, trabalhamos com nosso carro-chefe, o sistema ERP, mas também desenvolvemos outras diversas soluções fundamentais para a excelência da indústria, como o CRM, APS, Business Intelligence e vários outros.  Aqui na Korp, nossa cultura é movida por uma palavra: pessoas. Acreditamos que profissionais bem capacitados são pilares fundamentais da nossa empresa, por isso buscamos novos talentos para compor nosso time, não só como estagiários, mas como futuros profissionais competentes e altamente capacitados para fazer o melhor! Afinal, nada melhor do que se desenvolver na prática, né?  Mas vamos ao que realmente interessa: nossa oportunidade estágio de Desenvolvedor(a) Web Fullstack (C# e Angular). Essa vaga representa o coração da empresa, e por isso... buscamos uma pessoa que queira crescer conosco e seja apaixonado por desafios tanto quanto nós.  Responsabilidades e atribuições • Auxiliar em criação/testes de componentes e telas; • Suporte ao desenvolvimento de serviços REST em C# e .NET Core.  Requisitos e qualificações • Cursando T.I ou áreas correlatas ao desenvolvimento de aplicações; • Já ter tido algum contato com Angular e C# (pode ser em cursos, projetos ou experiências prévias); • Vontade de aprender e se desenvolver com a gente; • Gostar da regra de negócio da indústria pode ser um diferencial.  Informações adicionais  Horário das 8h30 às 15h30 com 1h de intervalo - de segunda a sexta.  Valor da bolsa: R$1.200,00  A Korp é uma empresa de tecnologia, que está no mercado desde 1999 desenvolvendo softwares para gestão industrial.  De lá para cá, muitos processos mudaram, mas a nossa vocação permanece: ajudar empresas com a organização e otimização de processos administrativos e comerciais, por meio da tecnologia. Uma paixão sem fim!  Mediante nosso robusto Viasoft Korp ERP (que vem evoluindo desde 1999) e com o Viasoft Korp CRM (lançado em 2020), auxiliamos empresas dos setores Industrial e de Distribuição. Além dessas ferramentas, também contamos com soluções completas de Business Intelligence, APS, WMS, MRP I e II, e diversos outros. A busca por fazer sempre mais e melhor é o que nos move diariamente.  Então, se você tem amor pelo que faz, foca nos resultados e é mão na massa, aqui já deu match.  Cadastre seu currículo e venha fazer parte da nossa equipe. #VemPraKorp",
     "links": [
       {
-        "content": "Acesse em Jobgether",
-        "href": "https://jobgether.com/offer/64b7919abefb9214394b2a47-estagio-desenvolvimento-web-full-stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em Glassdoor",
+        "href": "https://www.glassdoor.com.br/job-listing/est%C3%A1gio-de-desenvolvedor-a-web-fullstack-c-e-angular-korp-JV_KO0,52_KE53,57.htm?jl=1008947510592&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
-        "content": "Acesse em Empregos Trabajo.org",
-        "href": "https://br.trabajo.org/emprego-1259-20231017-be88ff8cb88db73ab360ac920cec9df5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=b312cd519d39c81c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
-        "content": "Acesse em Jobbrazil24h.com",
-        "href": "https://jobbrazil24h.com/estagio-desenvolvimento-web-full-stack-job35556?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em BeBee",
+        "href": "https://br.bebee.com/job/20231118-fa2cfdca15c983e353d08438f916c903?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
-        "content": "Acesse em Hacendo.com",
-        "href": "https://br.hacendo.com/vaga/707923674/estagio-desenvolvimento-web-full-stack-porto-alegre/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Your Job Search Made Simple",
-        "href": "https://jobinterviewtipshq.blogspot.com/2023/08/estagio-desenvolvimento-web-full-stack.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Jobzem.com",
-        "href": "https://www.jobzem.com/br/jobad/61c0381f8bee3b49/9307679650/8282504725/estagio-desenvolvimento-web-full-stack-remoto.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Jobfindi",
-        "href": "https://www.jobfindi.com/br/jobad/3b38935ee0e47bb4/9307679650/8282504725/estagio-desenvolvimento-web-full-stack-remoto.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em JobKos",
-        "href": "https://br.jobkos.com/jobs/b4c9329cccd3ade8/est%C3%A1gio-desenvolvimento-web-full-stack-netvagas-355864820-remoto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em Sercanto",
+        "href": "https://br.sercanto.com/detail/a/estagio-de-desenvolvedor-a-web-fullstack-c-eangular_brasil_597366412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Estágio em Desenvolvimento Web | Híbrido",
-    "salary": "",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
     "company": "Aurum",
-    "description": "Em primeiro lugar, queremos te contar um pouco mais sobre quem somos. Vamos lá?Muito prazer, nós somos a Aurum!Somos uma empresa consolidada no mercado de softwares jurídicos. Utilizamos as tecnologias mais inovadoras para uma nova forma de advogar. Nosso...",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Em primeiro lugar, queremos te contar um pouco mais sobre quem somos. Vamos lá?Muito prazer, nós somos a Aurum!Somos uma empresa consolidada no mercado de softwares jurídicos. Utilizamos as tecnologias mais inovadoras para uma nova forma de advogar. Nosso trabalho ajuda milhares de pessoas advogadas a gerenciarem melhor suas tarefas e aumentarem sua produtividade no dia a dia. Legal, né?Quer saber um segredo? Nós só conseguimos fazer tudo isso porque temos as melhores pessoas aqui.E como c",
     "links": [
       {
         "content": "Acesse em React Jobs",
@@ -115,151 +90,38 @@
     ]
   },
   {
-    "title": "Estágio em Desenvolvimento Web",
-    "salary": "R$ 1,1 mil por mês",
+    "title": "ESTÁGIO - DESENVOLVEDOR JAVA WEB",
+    "salary": "R$ 1,2 mil ",
     "location": "Qualquer lugar",
-    "company": "Talent&IT",
-    "description": "Sparks Systems, empresa Especialistas em desenvolvimento web, low-code, RPA e Analytics contrata talentos para atuar com ESTÁGIO EM DESENVOLVIMENTO.\n\nBase: Belo Horizonte/MG\nTrabalho remoto\n\nRequisitos:\n\nGraduação em andamento em Ciência da Computação, Si...",
+    "company": "Sinerji",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Pré-requisitos:  1. Curso superior ou pós-graduação EM DESENVOLVIMENTO na área de desenvolvimento de sistemas de software;  2. Experiência com desenvolvimento Java para a Web e PMD;  3. Experiência com desenvolvimento de aplicações com integração ao ChatGPT;  Vínculo: Estágio - bolsa; 30 horas.  Benefícios:  1. Estímulo para capacitação;  Local/horário: horário flexível (a combinar);  Local: remoto / home-office;  Início: imediato.  Tipo de vaga: Estágio / Trainee Duração do contrato: 24 meses  Salário: R$1.200,00 por mês  Benefícios: • Trabalho remoto  Horário de trabalho: • Turno diário  Pergunta(s) de seleção: • Há quanto tempo você trabalha com desenvolvimento Java? • Quais linguagens de programação Java você domina? • Você possui conhecimento em desenvolvimento de aplicativos Java para a web, desktop ou mobile?  Escolaridade: • Ensino Superior cursando ou interrompido (Preferencial)  Experiência: • Desenvolvimento de Software com JAVA (Obrigatório) • Desenvolvimento de aplicações... integradas ao ChatGPT (Obrigatório)  Data de início prevista: 27/11/2023",
     "links": [
       {
         "content": "Candidatar-se no site Indeed",
-        "href": "https://br.indeed.com/viewjob?jk=0246928999aee288&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Vagas HTML/CSS remotas",
-    "salary": "",
-    "location": "Qualquer lugar",
-    "company": "Turing.com",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rGChs-3HBqRPulfLo4-_2uO_gWol6U1OAmgb01Y&s",
-    "description": "Descrição da vaga:\nNós, da Turing, estamos procurando desenvolvedores de software remotos para assumir vagas HTML/CSS. Eles serão responsáveis por escrever código escalonável, desenvolver aplicações web e fornecer suporte aos usuários do site. Aqui está s...",
-    "links": [
-      {
-        "content": "Acesse em Turing",
-        "href": "https://www.turing.com/pt/jobs/desenvolvedor-html-css-remoto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Estagio de desenvolvedor a web fullstack c e angular",
-    "salary": "",
-    "location": "Qualquer lugar",
-    "company": "Netvagas",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_FT1TjjfButeY0KVylqZuN4gHoSrFsfPP10cG5Zk&s",
-    "description": "• Cursando T.I ou áreas correlatas ao desenvolvimento de aplicações;- Já ter tido algum contato com Angular e C# (pode ser em cursos, projetos ou experiências prévias);- Vontade de aprender e se desenvolver com a gente;- Gostar da regra de negócio da indú...",
-    "links": [
-      {
-        "content": "Acesse em LinkedIn",
-        "href": "https://br.linkedin.com/jobs/view/estagio-de-desenvolvedor-a-web-fullstack-c-e-angular-at-netvagas-3750345522?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "href": "https://br.indeed.com/viewjob?jk=bd8aa049237a7187&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
-      {
-        "content": "Acesse em Jobgether",
-        "href": "https://jobgether.com/offer/6544155e2478ff4aabdc662c-estagio-de-desenvolvedor-a-web-fullstack-c-e-angular?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em INFORME VAGAS",
-        "href": "https://informevagas.net/view-job/estagio-de-desenvolvedor-a-web-fullstack-c-e-angular-brasil/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Estágio em Desenvolvimento de Web - WEBVOL - Campinas/RMC",
-    "salary": "R$ 12 mil por mês",
-    "location": "Qualquer lugar",
-    "company": "Grupo Real RH",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFcKvA2q8BgNMxgY0fP_kkRjis9xazqgZsjmE0gI&s",
-    "description": "Empresa em parceria com o Grupo Real RH está com 1 vaga(s) em aberto para CAMPINAS/RMC /\n\nResponsabilidades: Irá desenvolver websites e páginas web diversas; Auxiliará no gerenciamento de hospedagem dos sites; Fará manutenção em sites e sistemas; Realizar...",
-    "links": [
       {
         "content": "Candidatar-se no site Glassdoor",
-        "href": "https://www.glassdoor.com.br/job-listing/est%C3%A1gio-em-desenvolvimento-de-web-webvol-campinas-rmc-grupo-real-rh-JV_IC2490130_KO0,53_KE54,67.htm?jl=1008755002272&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Candidatar-se no site Indeed",
-        "href": "https://br.indeed.com/viewjob?jk=b3cdaead81617f3b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Estágio: Web Design",
-    "salary": "R$ 850 por mês",
-    "location": "Qualquer lugar",
-    "company": "Nube - Núcleo Brasileiro de Estágios",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLfwdQPGBFPxEq094bAnhNzlRzam58tEh4lrGnhk&s",
-    "description": "auxiliar na criação de banners e layouts, desenvolver e atualizar os sites, assessorar no desenvolvimento de navegação das páginas, prestar apoio nas demais atividades da área...",
-    "links": [
-      {
-        "content": "Acesse em LinkedIn",
-        "href": "https://br.linkedin.com/jobs/view/est%C3%A1gio-web-design-at-nube-n%C3%BAcleo-brasileiro-de-est%C3%A1gios-3731793921?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Estágio JavaScript rumo à efetivação",
-    "salary": "R$ 400 a R$ 1,5 mil por mês",
-    "location": "Qualquer lugar",
-    "company": "App Masters",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsD0NuGPQLOC2cErM2ADab18k1BpYMTVrcz5p_fA&s",
-    "description": "Estamos em constante movimento, efetivamos um estagiário recentemente e com isso optamos por abrir espaço para dois ou três novos estagiários.\n\nEsta oportunidade é especialmente boa para estudantes que já estão estagiando e querem caminhar rumo a efetivaç...",
-    "links": [
-      {
-        "content": "Acesse em Programadores Em Juiz De Fora",
-        "href": "https://programador.emjuizdefora.com/oportunidade/estagio-javascript-rumo-efetivacao/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Desenvolvedor(a) Full-Stack Estágio - Full Stack",
-    "salary": "R$ 1 mil por mês",
-    "location": "Qualquer lugar",
-    "company": "AN Tecnologia",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFzUGOfDREXhtlgyALvaHW3NQF2-G7QSoX6UOpBg&s",
-    "description": "Habilidades\nCSS, HTML, JavaScript, PHP\n\nO que nós buscamos\nEstamos em busca de uma pessoa entusiasmada e comprometida para auxiliar no desenvolvimento de projetos da nossa empresa (próprios e de clientes).\n\nCarga horária de 20 horas semanais, com opção de...",
-    "links": [
-      {
-        "content": "Acesse em ProgramaThor",
-        "href": "https://programathor.com.br/jobs/29351-desenvolvedor-a-full-stack-estagio?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Web Programador",
-    "salary": "R$ 2.204,90 a R$ 3.430,66 por mês",
-    "location": "Qualquer lugar",
-    "company": "Confidencial",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKEieEOqXgk5wKFhihib9VWXdPmxBqWKpJHYBq5U&s",
-    "description": "Descrição Geral:Requisitos cursando técnico ou superior em análise e desenvolvimento de sistemas e áreas afins. Desejável conhecimento em php, css, html5, javascript, bootstrap, mysql. Atividades o estagiário auxiliará na atualização, desenvolvimento e pr...",
-    "links": [
-      {
-        "content": "Acesse em Trabalha Brasil",
-        "href": "https://www.trabalhabrasil.com.br/vagas-empregos-em-porto-alegre-rs/web-programador/9986277?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "href": "https://www.glassdoor.com.br/job-listing/est%C3%A1gio-desenvolvedor-java-web-sinerji-JV_KO0,30_KE31,38.htm?jl=1008983236996&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Estágio Desenvolvimento Web Full Stack - Remote  from PT, BR",
-    "salary": "",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
     "company": "Pix Force",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST0_K74fL6e8JCdRVINbcwB-F3SRoayrsXfi4e2Fw&s",
-    "description": "This a Full Remote job, the offer is available from: Portugal, Brazil\n\n\"\n\nA Pix Force foi fundada em 2015 e, de lá pra cá, desenvolve soluções utilizando tecnologias de visão computacional , inteligência artificial e machine learning . Nossos projetos e s...",
+    "description": "This a Full Remote job, the offer is available from: Portugal, Brazil  \"  A Pix Force foi fundada em 2015 e, de lá pra cá, desenvolve soluções utilizando tecnologias de visão computacional , inteligência artificial e machine learning . Nossos projetos e soluções transformam dados e imagens em informações valiosas para os clientes através da interpretação automática de imagens e vídeos.  O nosso time de Pix Whizz é formado de profissionais especializados em diversas áreas de conhecimento. A palavra-chave para trabalhar conosco é INOVAÇÃO . Se você se considera um profissional inovador, então você tem tudo para se tornar parte da nossa equipe.  O Jeito Pix De Ser • Quando um Pix Whizz pede ajuda, fazemos o possível para colaborar; • Sempre falamos quando algo não está bom e sugerimos melhorias; • Somos inovadores nos projetos, nas ideias e nos processos. Não deixamos de fazer por medo de errar; • Estamos em constante desenvolvimento e evolução, respeitamos as diferenças e o tempo de... cada um; • Somos protagonistas da história da Pix, juntos seremos os melhores do mundo!  Atividades • Atuar em prjoetos de desenvolvimento para Web com soluções em Visão Computacional.  , • Graduação em Engenharia de Software ou áreas correlatas; • Conhecimento em Python e Vue.js ou React.  \"This offer from \"Pix Force\" has been enriched by Jobgether and got a 77% flex score",
     "links": [
       {
         "content": "Acesse em Jobgether",
         "href": "https://jobgether.com/offer/64b7919abefb9214394b2a47-estagio-desenvolvimento-web-full-stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
-        "content": "Acesse em Empregos Trabajo.org",
-        "href": "https://br.trabajo.org/emprego-1259-20231017-be88ff8cb88db73ab360ac920cec9df5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
         "content": "Acesse em Jobbrazil24h.com",
         "href": "https://jobbrazil24h.com/estagio-desenvolvimento-web-full-stack-job35556?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Hacendo.com",
-        "href": "https://br.hacendo.com/vaga/707923674/estagio-desenvolvimento-web-full-stack-porto-alegre/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
         "content": "Acesse em Your Job Search Made Simple",
@@ -271,20 +133,151 @@
       },
       {
         "content": "Acesse em Jobfindi",
-        "href": "https://www.jobfindi.com/br/jobad/3b38935ee0e47bb4/9307679650/8282504725/estagio-desenvolvimento-web-full-stack-remoto.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "href": "https://www.jobfindi.com/br/job/a8c7e8e7ed5f7b5c/9307679650/estagio-desenvolvimento-web-full-stack-remoto.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
-        "content": "Acesse em JobKos",
+        "content": "Acesse em Jobkos",
         "href": "https://br.jobkos.com/jobs/b4c9329cccd3ade8/est%C3%A1gio-desenvolvimento-web-full-stack-netvagas-355864820-remoto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em INFORME VAGAS",
+        "href": "https://informevagas.net/view-job/estagio-desenvolvimento-web-full-stack-brasil/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Estágio Front End (Bizhub)",
+    "salary": "Não informado",
+    "location": "Qualquer lugar",
+    "company": "Alvarez and Marsal",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhBavawzqIbYv3GiiQiIAdtijbUWxNR-9-f5aRrc&s",
+    "description": "Description  Atividades e Responsabilidades: • Participar de reuniões e apresentações junto ao nível executivo do cliente e da A&M; • Construir e manter relacionamentos sólidos com clientes e prospectos; • Identificar e desenvolver novas oportunidades de negócios para a empresa; • Implementação de interfaces: Trabalhar na implementação de interfaces de usuário (UI) com base em projetos e designs fornecidos por designers ou equipes de UI/UX. Isso envolve a criação de layouts, elementos visuais, animações e interações; • Codificação em HTML, CSS e JavaScript: Desenvolver e manter páginas web utilizando linguagens fundamentais do front-end, como HTML para a estruturação do conteúdo, CSS para estilização e JavaScript para adicionar interatividade e comportamentos aos elementos da página; • Responsividade: Garantir que os sites e aplicativos sejam responsivos, ou seja, que se adaptem e funcionem bem em diferentes dispositivos, como computadores, tablets e smartphones; • Integração com... APIs: Colaborar na integração de APIs (Interfaces de Programação de Aplicativos) para acessar e exibir dados dinamicamente em uma página web; • Testes e resolução de problemas: Auxiliar na realização de testes de compatibilidade, usabilidade e desempenho, além de ajudar a identificar e corrigir problemas e bugs que possam surgir durante o desenvolvimento; • Otimização de desempenho: Contribuir para a otimização do desempenho das páginas web, visando melhorar a velocidade de carregamento e a experiência do usuário; • Colaboração com equipes de design e back-end: Trabalhar em estreita colaboração com designers para garantir a fidelidade à proposta visual e com desenvolvedores back-end para integrar o front-end com o servidor e o banco de dados; • Aprendizado contínuo: Manter-se atualizado com as últimas tendências, tecnologias e melhores práticas em desenvolvimento front-end, participando de treinamentos e buscando por conhecimento em comunidades online; • Versionamento de código: Utilizar sistemas de controle de versão, como Git, para gerenciar o código-fonte do projeto, permitindo o trabalho em equipe e o controle de alterações;  Qualificações: • Ensino superior cursando preferencialmente em cursos correlatos (Engenharia da Computação, Engenharia Mecatrônica, Robótica, Controle e Automação, Matemática e Estatística); • Conhecimentos em desenvolvimento de soluções, customer experience e Java, será um diferencial; • Desejável Inglês em nível avançado; • Residir em São Paulo e Região; • Disponibilidade para estagiar 30 horas semanais; • Previsão de formação para Dezembro de 2024 ou Julho de 2025; • Estar apto pela universidade para estagiar.  Competências: • Habilidades de comunicação, capacidade analitica e raciocinio lógico; • Profissional “Hands-on” com habilidade para liderar times multidisciplinares; • Espírito empreendedor e apetite para crescer.  Em observância com os requerimentos da Lei Geral de Proteção de Dados (LGPD), a Alvarez & Marsal informa que utilizará os dados pessoais coletados com a finalidade de possibilitar sua participação no nosso processo seletivo. Para maiores detalhes sobre como realizamos tratamento de dados pessoais, consulte nossa Política de Privacidade  Diversity & Inclusion  A&M’s entrepreneurial culture celebrates independent thinkers and doers who can positively impact our clients and shape our industry. The collaborative environment and engaging work—guided by A&M’s core values of Integrity, Quality, Objectivity, Fun, Personal Reward, and Inclusive Diversity—are the main reasons our people love working at A&M. Inclusive Diversity means we embrace diversity and we foster inclusiveness. It runs through how we recruit, develop employees, conduct business, support clients, and partner with vendors. It is the A&M way.  Voluntary Inclusion  It is Alvarez & Marsal’s policy to provide and promote equal opportunity in employment, compensation, and other terms and conditions of employment without discrimination because of race, color, sex, sexual orientation, gender identity, family medical history or genetic information, political affiliation, military service, pregnancy, marital status, family status, religion, national origin, age or disability or any other non-merit based factor in accordance with all applicable laws and regulations.  Unsolicited Resumes from Third-Party Recruiters  Please note that as per A&M policy, we do not accept unsolicited resumes from third-party recruiters unless such recruiters were engaged to provide candidates for a specified opening. Any employment agency, person or entity that submits an unsolicited resume does so with the understanding that A&M will have the right to hire that applicant at its discretion without any fee owed to the submitting employment agency, person or entity",
+    "links": [
+      {
+        "content": "Acesse em Glassdoor",
+        "href": "https://www.glassdoor.com.br/job-listing/est%C3%A1gio-front-end-bizhub-alvarez-and-marsal-JV_KO0,24_KE25,43.htm?jl=1008793760179&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=f9234545212a27f8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "estágio em desenvolvimento front-end",
+    "salary": "Não informado",
+    "location": "Qualquer lugar",
+    "company": "TrabalhaES.com.br",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8a8TPbQVkmK-qF4neYyavaTSOPoXvpDUQNmHuU0&s",
+    "description": "Descrição da vaga o time de desenvolvimento front-end busca uma pessoa para estagiar e nos ajudar a desenvolver novas funcionalidades no site do Confidencial (Apenas para Cadastrados).você vai fazer parte de um grupo com uma dúzia de desenvolvedores(as) front-end e trabalhará alocado em um time focado em um domínio de negócio junto com desenvolvedores back-end, designers, analistas de qualidade, agilistas e product managers.vai trabalhar bastante com vue.js, mas também com algum código legado de todo o tipo, em uma aplicação ruby on rails utilizada por milhões de usuários.é pra você que está muito interessado(a) em aprender, mas também preparado(a) para colocar a mão no código. Responsabilidades e atribuições entrando no time, você vaiparticipar do desenvolvimento de novas funcionalidades e de ferramentas de administração internarealizar tarefas de manutenção do site, como correção de bugs e melhorias de performanceparticipar das cerimônias ágeis do time, como atualizações diárias... planejamento e retrospectivasparticipar da revisão de código de outros membros do time Requisitos e qualificações buscamos alguémcom conhecimento de html, css e javascriptcom conhecimento básico de gitque preze pela qualidade das suas entregascom boa comunicaçãocom muita vontade de aprendercursando ensino superior em áreas relacionadas a tecnologia Informações adicionais bolsa auxíliogrande possibilidade de efetivaçãovale refeição ou alimentaçãoseguro de vida em grupoauxílio internetauxílio para fazer terapia através da plataforma vittudeposição 100% remotoo Confidencial (Apenas para Cadastrados) acredita na diversidade, na equidade e na inclusão como ferramenta de inovação e criatividade, e também como geração de impacto social. por isso, estamos desenvolvendo políticas internas que tornem nosso ambiente de trabalho, cada vez mais, um espaço de crescimento profissional e pessoal para todas as pessoas, respeitando individualidades e reconhecendo desigualdades sistêmicas.há um ano, criamos nosso comitê de diversidade, que produz uma agenda interna de debates sobre o tema, além de propor ações, práticas e contratações afirmativas que ampliam essa realidade. pautas de gênero, lgbtqia +, raça e pessoa com deficiência são alguns dos temas trabalhados.ao se inscrever em nossas vagas você encontrará um pequeno questionário que utilizamos para conhecer melhor nossos candidatos. essas informações serão consideradas em nossas ações de diversidade e inclusão. enfatizamos que sua resposta é opcional, totalmente confidencial e não será usada como critério de avaliação.﻿todas as vagas do Confidencial (Apenas para Cadastrados) são elegíveis à pessoas com deficiência (PcD). o Confidencial (Apenas para Cadastrados) somos um marketplace com foco em moda (o segmento do e-commerce mais representativo no brasil em volume de pedidos), que recebe investimentos nacionais e internacionais e com uma equipe distribuída em diversos estados.queremos construir uma nova cultura de consumo de moda, estimulando uma economia sustentável, ressignificando itens únicos e contando novas histórias. e o nosso grande contador de histórias — o nosso produto, um produto com alma que fala a língua das pessoas — está em busca de novos talentos",
+    "links": [
+      {
+        "content": "Acesse em Trabalha ES",
+        "href": "https://www.trabalhaes.com.br/vaga/estagio-em-desenvolvimento-front-end/remoto-es/90814/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Estagiário em Desenvolvimento Web/Mobile",
+    "salary": "Não informado",
+    "location": "Qualquer lugar",
+    "company": "ASC Solutions",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Este é um cargo remoto.  Já pensou iniciar sua carreira em tecnologia, numa empresa que é referência em desenvolvimento de software e atende os mais importantes clubes do país?  Estagiando aqui com a gente na ASC Solutions, você vai ter a oportunidade de aprender na prática com os nossos desenvolvedores, que são feras em programação! Além de contar com um ambiente colaborativo e de muito aprendizado.  Atividades: • Desenvolver rotinas de programação para reparo e evolução dos projetos em andamento.  Requisitos Formação: • Cursando Superior em Informática, Processamento de Dados, Análise de Sistemas ou áreas correlatas.  Conhecimentos/Habilidades desejáveis: • Bom relacionamento interpessoal; • Facilidade em comunicação com boa expressão verbal e escrita; • Boa administração de tempo; • Postura assertiva; • Conhecimento em Bootstrap, Ionic, Typescript e Entity Framework.  Conhecimentos/Habilidades imprescindíveis: • Boa lógica de programação; • Conhecimento básico em linguagens de... programação como HTML, CSS, JavaScript, C#, .NET Core 3.1+ e Angular; • Conhecimento em banco de dados SQL.  Benefícios • Vale refeição; • Seguro de vida; • 13º salário; • Trabalho 100% remoto",
+    "links": [
+      {
+        "content": "Acesse em LinkedIn",
+        "href": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-em-desenvolvimento-web-mobile-at-asc-solutions-3769974167?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Glassdoor",
+        "href": "https://glassdoor.com.br/job-listing/estagi%C3%A1rio-em-desenvolvimento-web-mobile-asc-solutions-JV_KO0,40_KE41,54.htm?jl=1008983991661&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=a872a7194566e917&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Estagiário de Desenvolvimento Web .NET (PCD)",
+    "salary": "R$ 11.880 ",
+    "location": "Qualquer lugar",
+    "company": "TTY2000 Tecnologia e Sistemas",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Há mais de 27 anos atuamos no mercado de TI, somos especialistas em prover sempre as melhores soluções aos nossos clientes. Nos destacamos por termos crenças e valores praticados no dia a dia, que demonstram a nossa forma de ser, se preocupando com a transparência, ética e relacionamento.  Conhecimentos / Atividades: • Ira atuar com Desenvolvimento Web, com as tecnologias: C#, Entity Framework, ASP.NET MVC, NET Core, Angular, Web API, SQL Server, Dapper,LinQ. • Necessário conhecimento técnico com a linguagem.  Necessário está cursando superior na área de Tecnologia.  Tipo de vaga: Estágio  Salário: R$990,00 por mês  Benefícios: • Vale-alimentação  Horário de trabalho: • De segunda à sexta-feira  Tipos de pagamento adicional: • 13º salário  Pergunta(s) de seleção: • Possui alguma deficiência, se sim, qual? • Está cursando superior na área de tecnologia?",
+    "links": [
+      {
+        "content": "Candidatar-se no site Glassdoor",
+        "href": "https://www.glassdoor.com.br/job-listing/estagi%C3%A1rio-de-desenvolvimento-web-net-pcd-tty2000-tecnologia-e-sistemas-JV_KO0,41_KE42,71.htm?jl=1008973263012&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Candidatar-se no site Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=9c80c5fd443a0715&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Desenvolvedor(a) Full-Stack Estágio - Full Stack",
+    "salary": "R$ 1 mil ",
+    "location": "Qualquer lugar",
+    "company": "AN Tecnologia",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFzUGOfDREXhtlgyALvaHW3NQF2-G7QSoX6UOpBg&s",
+    "description": "Habilidades CSS, HTML, JavaScript, PHP  O que nós buscamos Estamos em busca de uma pessoa entusiasmada e comprometida para auxiliar no desenvolvimento de projetos da nossa empresa (próprios e de clientes).  Carga horária de 20 horas semanais, com opção de turno pela manhã ou à tarde. Home office. Remuneração mensal de R$ 1000,00. Não é necessário ter experiência prévia.  Irá praticar princípios de programação orientada a objetos (OOP), princípios SOLID e a arquitetura Model-View-Controller (MVC).  Irá trabalhar com (e aprender) as seguintes tecnologias e ferramentas: • Linguagens de programação PHP, Javascript/Typescript e Dart (talvez um pouco de Python). • Princípios e tecnologias web HTML/CSS e relacionados • Bancos de dados MySQL e MongoDB. • Frameworks e bibliotecas Laravel, Next.js, Vue.js, React.js, JQuery, Flutter, React Native, Node.js • Ferramentas de DevOps / Cloud / Versionamento AWS, Git e Docker.  Principais responsabilidades • Vontade de aprender sobre desenvolvimento... de software, com foco na parte web e mobile. • Leitura e escrita em inglês intermediário. • Comprometimento • Boa comunicação  Descrição da empresa Empresa focada no desenvolvimento de sites, aplicativos e projetos personalizados de software com excelente custo/benefício.  Benefícios",
+    "links": [
+      {
+        "content": "Acesse em ProgramaThor",
+        "href": "https://programathor.com.br/jobs/29351-desenvolvedor-a-full-stack-estagio?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Estágio JavaScript rumo à efetivação",
+    "salary": "R$ 400 a R$ 1,5 mil ",
+    "location": "Qualquer lugar",
+    "company": "App Masters",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsD0NuGPQLOC2cErM2ADab18k1BpYMTVrcz5p_fA&s",
+    "description": "Estamos em constante movimento, efetivamos um estagiário recentemente e com isso optamos por abrir espaço para dois ou três novos estagiários.  Esta oportunidade é especialmente boa para estudantes que já estão estagiando e querem caminhar rumo a efetivação.  Buscamos estudantes que já tenham aprendido o React ou o Node, ou seja, pode ter um foco mais de backend ou de frontend. Não precisa saber os dois, mas precisa conhecer bem um deles.  É importante, acima de tudo, querer aprender, saber se comunicar e gostar de desafios.  Uma vez na empresa estagiando, pensaremos \"como efetivar este estagiário em no máximo oito meses\".",
+    "links": [
+      {
+        "content": "Acesse em Programadores Em Juiz De Fora",
+        "href": "https://programador.emjuizdefora.com/oportunidade/estagio-javascript-rumo-efetivacao/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Estágio de Desenvolvedor(a) Web Fullstack ( C# e Angular)",
+    "salary": "R$ 14,4 mil ",
+    "location": "Qualquer lugar",
+    "company": "Korp",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "A Viasoft Korp está há mais de 20 anos no mercado, sendo uma das principais pioneiras no ramo de soluções de gestão para indústria e distribuição. Acreditamos que podemos revolucionar o segmento industrial com o poder da tecnologia.  Hoje, trabalhamos com nosso carro-chefe, o sistema ERP, mas também desenvolvemos outras diversas soluções fundamentais para a excelência da indústria, como o CRM, APS, Business Intelligence e vários outros.  Aqui na Korp, nossa cultura é movida por uma palavra: pessoas. Acreditamos que profissionais bem capacitados são pilares fundamentais da nossa empresa, por isso buscamos novos talentos para compor nosso time, não só como estagiários, mas como futuros profissionais competentes e altamente capacitados para fazer o melhor! Afinal, nada melhor do que se desenvolver na prática, né?  Mas vamos ao que realmente interessa: nossa oportunidade estágio de Desenvolvedor(a) Web Fullstack (C# e Angular). Essa vaga representa o coração da empresa, e por isso... buscamos uma pessoa que queira crescer conosco e seja apaixonado por desafios tanto quanto nós.  Responsabilidades e atribuições • Auxiliar em criação/testes de componentes e telas; • Suporte ao desenvolvimento de serviços REST em C# e .NET Core.  Requisitos e qualificações • Cursando T.I ou áreas correlatas ao desenvolvimento de aplicações; • Já ter tido algum contato com Angular e C# (pode ser em cursos, projetos ou experiências prévias); • Vontade de aprender e se desenvolver com a gente; • Gostar da regra de negócio da indústria pode ser um diferencial.  Informações adicionais  Horário das 8h30 às 15h30 com 1h de intervalo - de segunda a sexta.  Valor da bolsa: R$1.200,00  A Korp é uma empresa de tecnologia, que está no mercado desde 1999 desenvolvendo softwares para gestão industrial.  De lá para cá, muitos processos mudaram, mas a nossa vocação permanece: ajudar empresas com a organização e otimização de processos administrativos e comerciais, por meio da tecnologia. Uma paixão sem fim!  Mediante nosso robusto Viasoft Korp ERP (que vem evoluindo desde 1999) e com o Viasoft Korp CRM (lançado em 2020), auxiliamos empresas dos setores Industrial e de Distribuição. Além dessas ferramentas, também contamos com soluções completas de Business Intelligence, APS, WMS, MRP I e II, e diversos outros. A busca por fazer sempre mais e melhor é o que nos move diariamente.  Então, se você tem amor pelo que faz, foca nos resultados e é mão na massa, aqui já deu match.  Cadastre seu currículo e venha fazer parte da nossa equipe. #VemPraKorp",
+    "links": [
+      {
+        "content": "Acesse em Glassdoor",
+        "href": "https://www.glassdoor.com.br/job-listing/est%C3%A1gio-de-desenvolvedor-a-web-fullstack-c-e-angular-korp-JV_KO0,52_KE53,57.htm?jl=1008947510592&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=b312cd519d39c81c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em BeBee",
+        "href": "https://br.bebee.com/job/20231118-fa2cfdca15c983e353d08438f916c903?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Sercanto",
+        "href": "https://br.sercanto.com/detail/a/estagio-de-desenvolvedor-a-web-fullstack-c-eangular_brasil_597366412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Estágio em Desenvolvimento Web | Híbrido",
-    "salary": "",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
     "company": "Aurum",
-    "description": "Em primeiro lugar, queremos te contar um pouco mais sobre quem somos. Vamos lá?Muito prazer, nós somos a Aurum!Somos uma empresa consolidada no mercado de softwares jurídicos. Utilizamos as tecnologias mais inovadoras para uma nova forma de advogar. Nosso...",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Em primeiro lugar, queremos te contar um pouco mais sobre quem somos. Vamos lá?Muito prazer, nós somos a Aurum!Somos uma empresa consolidada no mercado de softwares jurídicos. Utilizamos as tecnologias mais inovadoras para uma nova forma de advogar. Nosso trabalho ajuda milhares de pessoas advogadas a gerenciarem melhor suas tarefas e aumentarem sua produtividade no dia a dia. Legal, né?Quer saber um segredo? Nós só conseguimos fazer tudo isso porque temos as melhores pessoas aqui.E como c",
     "links": [
       {
         "content": "Acesse em React Jobs",
@@ -297,69 +290,112 @@
     ]
   },
   {
-    "title": "Estágio em Desenvolvimento Web",
-    "salary": "R$ 1,1 mil por mês",
+    "title": "ESTÁGIO - DESENVOLVEDOR JAVA WEB",
+    "salary": "R$ 1,2 mil ",
     "location": "Qualquer lugar",
-    "company": "Talent&IT",
-    "description": "Sparks Systems, empresa Especialistas em desenvolvimento web, low-code, RPA e Analytics contrata talentos para atuar com ESTÁGIO EM DESENVOLVIMENTO.\n\nBase: Belo Horizonte/MG\nTrabalho remoto\n\nRequisitos:\n\nGraduação em andamento em Ciência da Computação, Si...",
+    "company": "Sinerji",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Pré-requisitos:  1. Curso superior ou pós-graduação EM DESENVOLVIMENTO na área de desenvolvimento de sistemas de software;  2. Experiência com desenvolvimento Java para a Web e PMD;  3. Experiência com desenvolvimento de aplicações com integração ao ChatGPT;  Vínculo: Estágio - bolsa; 30 horas.  Benefícios:  1. Estímulo para capacitação;  Local/horário: horário flexível (a combinar);  Local: remoto / home-office;  Início: imediato.  Tipo de vaga: Estágio / Trainee Duração do contrato: 24 meses  Salário: R$1.200,00 por mês  Benefícios: • Trabalho remoto  Horário de trabalho: • Turno diário  Pergunta(s) de seleção: • Há quanto tempo você trabalha com desenvolvimento Java? • Quais linguagens de programação Java você domina? • Você possui conhecimento em desenvolvimento de aplicativos Java para a web, desktop ou mobile?  Escolaridade: • Ensino Superior cursando ou interrompido (Preferencial)  Experiência: • Desenvolvimento de Software com JAVA (Obrigatório) • Desenvolvimento de aplicações... integradas ao ChatGPT (Obrigatório)  Data de início prevista: 27/11/2023",
     "links": [
       {
         "content": "Candidatar-se no site Indeed",
-        "href": "https://br.indeed.com/viewjob?jk=0246928999aee288&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Vagas HTML/CSS remotas",
-    "salary": "",
-    "location": "Qualquer lugar",
-    "company": "Turing.com",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rGChs-3HBqRPulfLo4-_2uO_gWol6U1OAmgb01Y&s",
-    "description": "Descrição da vaga:\nNós, da Turing, estamos procurando desenvolvedores de software remotos para assumir vagas HTML/CSS. Eles serão responsáveis por escrever código escalonável, desenvolver aplicações web e fornecer suporte aos usuários do site. Aqui está s...",
-    "links": [
-      {
-        "content": "Acesse em Turing",
-        "href": "https://www.turing.com/pt/jobs/desenvolvedor-html-css-remoto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Estagio de desenvolvedor a web fullstack c e angular",
-    "salary": "",
-    "location": "Qualquer lugar",
-    "company": "Netvagas",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_FT1TjjfButeY0KVylqZuN4gHoSrFsfPP10cG5Zk&s",
-    "description": "• Cursando T.I ou áreas correlatas ao desenvolvimento de aplicações;- Já ter tido algum contato com Angular e C# (pode ser em cursos, projetos ou experiências prévias);- Vontade de aprender e se desenvolver com a gente;- Gostar da regra de negócio da indú...",
-    "links": [
-      {
-        "content": "Acesse em LinkedIn",
-        "href": "https://br.linkedin.com/jobs/view/estagio-de-desenvolvedor-a-web-fullstack-c-e-angular-at-netvagas-3750345522?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "href": "https://br.indeed.com/viewjob?jk=bd8aa049237a7187&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
+        "content": "Candidatar-se no site Glassdoor",
+        "href": "https://www.glassdoor.com.br/job-listing/est%C3%A1gio-desenvolvedor-java-web-sinerji-JV_KO0,30_KE31,38.htm?jl=1008983236996&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Estágio Desenvolvimento Web Full Stack - Remote  from PT, BR",
+    "salary": "Não informado",
+    "location": "Qualquer lugar",
+    "company": "Pix Force",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST0_K74fL6e8JCdRVINbcwB-F3SRoayrsXfi4e2Fw&s",
+    "description": "This a Full Remote job, the offer is available from: Portugal, Brazil  \"  A Pix Force foi fundada em 2015 e, de lá pra cá, desenvolve soluções utilizando tecnologias de visão computacional , inteligência artificial e machine learning . Nossos projetos e soluções transformam dados e imagens em informações valiosas para os clientes através da interpretação automática de imagens e vídeos.  O nosso time de Pix Whizz é formado de profissionais especializados em diversas áreas de conhecimento. A palavra-chave para trabalhar conosco é INOVAÇÃO . Se você se considera um profissional inovador, então você tem tudo para se tornar parte da nossa equipe.  O Jeito Pix De Ser • Quando um Pix Whizz pede ajuda, fazemos o possível para colaborar; • Sempre falamos quando algo não está bom e sugerimos melhorias; • Somos inovadores nos projetos, nas ideias e nos processos. Não deixamos de fazer por medo de errar; • Estamos em constante desenvolvimento e evolução, respeitamos as diferenças e o tempo de... cada um; • Somos protagonistas da história da Pix, juntos seremos os melhores do mundo!  Atividades • Atuar em prjoetos de desenvolvimento para Web com soluções em Visão Computacional.  , • Graduação em Engenharia de Software ou áreas correlatas; • Conhecimento em Python e Vue.js ou React.  \"This offer from \"Pix Force\" has been enriched by Jobgether and got a 77% flex score",
+    "links": [
+      {
         "content": "Acesse em Jobgether",
-        "href": "https://jobgether.com/offer/6544155e2478ff4aabdc662c-estagio-de-desenvolvedor-a-web-fullstack-c-e-angular?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "href": "https://jobgether.com/offer/64b7919abefb9214394b2a47-estagio-desenvolvimento-web-full-stack?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Jobbrazil24h.com",
+        "href": "https://jobbrazil24h.com/estagio-desenvolvimento-web-full-stack-job35556?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Your Job Search Made Simple",
+        "href": "https://jobinterviewtipshq.blogspot.com/2023/08/estagio-desenvolvimento-web-full-stack.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Jobzem.com",
+        "href": "https://www.jobzem.com/br/jobad/61c0381f8bee3b49/9307679650/8282504725/estagio-desenvolvimento-web-full-stack-remoto.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Jobfindi",
+        "href": "https://www.jobfindi.com/br/job/a8c7e8e7ed5f7b5c/9307679650/estagio-desenvolvimento-web-full-stack-remoto.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Jobkos",
+        "href": "https://br.jobkos.com/jobs/b4c9329cccd3ade8/est%C3%A1gio-desenvolvimento-web-full-stack-netvagas-355864820-remoto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
         "content": "Acesse em INFORME VAGAS",
-        "href": "https://informevagas.net/view-job/estagio-de-desenvolvedor-a-web-fullstack-c-e-angular-brasil/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "href": "https://informevagas.net/view-job/estagio-desenvolvimento-web-full-stack-brasil/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
-    "title": "Estágio em Desenvolvimento de Web - WEBVOL - Campinas/RMC",
-    "salary": "R$ 12 mil por mês",
+    "title": "Estágio Front End (Bizhub)",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
-    "company": "Grupo Real RH",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFcKvA2q8BgNMxgY0fP_kkRjis9xazqgZsjmE0gI&s",
-    "description": "Empresa em parceria com o Grupo Real RH está com 1 vaga(s) em aberto para CAMPINAS/RMC /\n\nResponsabilidades: Irá desenvolver websites e páginas web diversas; Auxiliará no gerenciamento de hospedagem dos sites; Fará manutenção em sites e sistemas; Realizar...",
+    "company": "Alvarez and Marsal",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhBavawzqIbYv3GiiQiIAdtijbUWxNR-9-f5aRrc&s",
+    "description": "Description  Atividades e Responsabilidades: • Participar de reuniões e apresentações junto ao nível executivo do cliente e da A&M; • Construir e manter relacionamentos sólidos com clientes e prospectos; • Identificar e desenvolver novas oportunidades de negócios para a empresa; • Implementação de interfaces: Trabalhar na implementação de interfaces de usuário (UI) com base em projetos e designs fornecidos por designers ou equipes de UI/UX. Isso envolve a criação de layouts, elementos visuais, animações e interações; • Codificação em HTML, CSS e JavaScript: Desenvolver e manter páginas web utilizando linguagens fundamentais do front-end, como HTML para a estruturação do conteúdo, CSS para estilização e JavaScript para adicionar interatividade e comportamentos aos elementos da página; • Responsividade: Garantir que os sites e aplicativos sejam responsivos, ou seja, que se adaptem e funcionem bem em diferentes dispositivos, como computadores, tablets e smartphones; • Integração com... APIs: Colaborar na integração de APIs (Interfaces de Programação de Aplicativos) para acessar e exibir dados dinamicamente em uma página web; • Testes e resolução de problemas: Auxiliar na realização de testes de compatibilidade, usabilidade e desempenho, além de ajudar a identificar e corrigir problemas e bugs que possam surgir durante o desenvolvimento; • Otimização de desempenho: Contribuir para a otimização do desempenho das páginas web, visando melhorar a velocidade de carregamento e a experiência do usuário; • Colaboração com equipes de design e back-end: Trabalhar em estreita colaboração com designers para garantir a fidelidade à proposta visual e com desenvolvedores back-end para integrar o front-end com o servidor e o banco de dados; • Aprendizado contínuo: Manter-se atualizado com as últimas tendências, tecnologias e melhores práticas em desenvolvimento front-end, participando de treinamentos e buscando por conhecimento em comunidades online; • Versionamento de código: Utilizar sistemas de controle de versão, como Git, para gerenciar o código-fonte do projeto, permitindo o trabalho em equipe e o controle de alterações;  Qualificações: • Ensino superior cursando preferencialmente em cursos correlatos (Engenharia da Computação, Engenharia Mecatrônica, Robótica, Controle e Automação, Matemática e Estatística); • Conhecimentos em desenvolvimento de soluções, customer experience e Java, será um diferencial; • Desejável Inglês em nível avançado; • Residir em São Paulo e Região; • Disponibilidade para estagiar 30 horas semanais; • Previsão de formação para Dezembro de 2024 ou Julho de 2025; • Estar apto pela universidade para estagiar.  Competências: • Habilidades de comunicação, capacidade analitica e raciocinio lógico; • Profissional “Hands-on” com habilidade para liderar times multidisciplinares; • Espírito empreendedor e apetite para crescer.  Em observância com os requerimentos da Lei Geral de Proteção de Dados (LGPD), a Alvarez & Marsal informa que utilizará os dados pessoais coletados com a finalidade de possibilitar sua participação no nosso processo seletivo. Para maiores detalhes sobre como realizamos tratamento de dados pessoais, consulte nossa Política de Privacidade  Diversity & Inclusion  A&M’s entrepreneurial culture celebrates independent thinkers and doers who can positively impact our clients and shape our industry. The collaborative environment and engaging work—guided by A&M’s core values of Integrity, Quality, Objectivity, Fun, Personal Reward, and Inclusive Diversity—are the main reasons our people love working at A&M. Inclusive Diversity means we embrace diversity and we foster inclusiveness. It runs through how we recruit, develop employees, conduct business, support clients, and partner with vendors. It is the A&M way.  Voluntary Inclusion  It is Alvarez & Marsal’s policy to provide and promote equal opportunity in employment, compensation, and other terms and conditions of employment without discrimination because of race, color, sex, sexual orientation, gender identity, family medical history or genetic information, political affiliation, military service, pregnancy, marital status, family status, religion, national origin, age or disability or any other non-merit based factor in accordance with all applicable laws and regulations.  Unsolicited Resumes from Third-Party Recruiters  Please note that as per A&M policy, we do not accept unsolicited resumes from third-party recruiters unless such recruiters were engaged to provide candidates for a specified opening. Any employment agency, person or entity that submits an unsolicited resume does so with the understanding that A&M will have the right to hire that applicant at its discretion without any fee owed to the submitting employment agency, person or entity",
     "links": [
       {
-        "content": "Candidatar-se no site Glassdoor",
-        "href": "https://www.glassdoor.com.br/job-listing/est%C3%A1gio-em-desenvolvimento-de-web-webvol-campinas-rmc-grupo-real-rh-JV_IC2490130_KO0,53_KE54,67.htm?jl=1008755002272&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em Glassdoor",
+        "href": "https://www.glassdoor.com.br/job-listing/est%C3%A1gio-front-end-bizhub-alvarez-and-marsal-JV_KO0,24_KE25,43.htm?jl=1008793760179&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
-        "content": "Candidatar-se no site Indeed",
-        "href": "https://br.indeed.com/viewjob?jk=b3cdaead81617f3b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=f9234545212a27f8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "estágio em desenvolvimento front-end",
+    "salary": "Não informado",
+    "location": "Qualquer lugar",
+    "company": "TrabalhaES.com.br",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8a8TPbQVkmK-qF4neYyavaTSOPoXvpDUQNmHuU0&s",
+    "description": "Descrição da vaga o time de desenvolvimento front-end busca uma pessoa para estagiar e nos ajudar a desenvolver novas funcionalidades no site do Confidencial (Apenas para Cadastrados).você vai fazer parte de um grupo com uma dúzia de desenvolvedores(as) front-end e trabalhará alocado em um time focado em um domínio de negócio junto com desenvolvedores back-end, designers, analistas de qualidade, agilistas e product managers.vai trabalhar bastante com vue.js, mas também com algum código legado de todo o tipo, em uma aplicação ruby on rails utilizada por milhões de usuários.é pra você que está muito interessado(a) em aprender, mas também preparado(a) para colocar a mão no código. Responsabilidades e atribuições entrando no time, você vaiparticipar do desenvolvimento de novas funcionalidades e de ferramentas de administração internarealizar tarefas de manutenção do site, como correção de bugs e melhorias de performanceparticipar das cerimônias ágeis do time, como atualizações diárias... planejamento e retrospectivasparticipar da revisão de código de outros membros do time Requisitos e qualificações buscamos alguémcom conhecimento de html, css e javascriptcom conhecimento básico de gitque preze pela qualidade das suas entregascom boa comunicaçãocom muita vontade de aprendercursando ensino superior em áreas relacionadas a tecnologia Informações adicionais bolsa auxíliogrande possibilidade de efetivaçãovale refeição ou alimentaçãoseguro de vida em grupoauxílio internetauxílio para fazer terapia através da plataforma vittudeposição 100% remotoo Confidencial (Apenas para Cadastrados) acredita na diversidade, na equidade e na inclusão como ferramenta de inovação e criatividade, e também como geração de impacto social. por isso, estamos desenvolvendo políticas internas que tornem nosso ambiente de trabalho, cada vez mais, um espaço de crescimento profissional e pessoal para todas as pessoas, respeitando individualidades e reconhecendo desigualdades sistêmicas.há um ano, criamos nosso comitê de diversidade, que produz uma agenda interna de debates sobre o tema, além de propor ações, práticas e contratações afirmativas que ampliam essa realidade. pautas de gênero, lgbtqia +, raça e pessoa com deficiência são alguns dos temas trabalhados.ao se inscrever em nossas vagas você encontrará um pequeno questionário que utilizamos para conhecer melhor nossos candidatos. essas informações serão consideradas em nossas ações de diversidade e inclusão. enfatizamos que sua resposta é opcional, totalmente confidencial e não será usada como critério de avaliação.﻿todas as vagas do Confidencial (Apenas para Cadastrados) são elegíveis à pessoas com deficiência (PcD). o Confidencial (Apenas para Cadastrados) somos um marketplace com foco em moda (o segmento do e-commerce mais representativo no brasil em volume de pedidos), que recebe investimentos nacionais e internacionais e com uma equipe distribuída em diversos estados.queremos construir uma nova cultura de consumo de moda, estimulando uma economia sustentável, ressignificando itens únicos e contando novas histórias. e o nosso grande contador de histórias — o nosso produto, um produto com alma que fala a língua das pessoas — está em busca de novos talentos",
+    "links": [
+      {
+        "content": "Acesse em Trabalha ES",
+        "href": "https://www.trabalhaes.com.br/vaga/estagio-em-desenvolvimento-front-end/remoto-es/90814/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Estagiário em Desenvolvimento Web/Mobile",
+    "salary": "Não informado",
+    "location": "Qualquer lugar",
+    "company": "ASC Solutions",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Este é um cargo remoto.  Já pensou iniciar sua carreira em tecnologia, numa empresa que é referência em desenvolvimento de software e atende os mais importantes clubes do país?  Estagiando aqui com a gente na ASC Solutions, você vai ter a oportunidade de aprender na prática com os nossos desenvolvedores, que são feras em programação! Além de contar com um ambiente colaborativo e de muito aprendizado.  Atividades: • Desenvolver rotinas de programação para reparo e evolução dos projetos em andamento.  Requisitos Formação: • Cursando Superior em Informática, Processamento de Dados, Análise de Sistemas ou áreas correlatas.  Conhecimentos/Habilidades desejáveis: • Bom relacionamento interpessoal; • Facilidade em comunicação com boa expressão verbal e escrita; • Boa administração de tempo; • Postura assertiva; • Conhecimento em Bootstrap, Ionic, Typescript e Entity Framework.  Conhecimentos/Habilidades imprescindíveis: • Boa lógica de programação; • Conhecimento básico em linguagens de... programação como HTML, CSS, JavaScript, C#, .NET Core 3.1+ e Angular; • Conhecimento em banco de dados SQL.  Benefícios • Vale refeição; • Seguro de vida; • 13º salário; • Trabalho 100% remoto",
+    "links": [
+      {
+        "content": "Acesse em LinkedIn",
+        "href": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-em-desenvolvimento-web-mobile-at-asc-solutions-3769974167?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Glassdoor",
+        "href": "https://glassdoor.com.br/job-listing/estagi%C3%A1rio-em-desenvolvimento-web-mobile-asc-solutions-JV_KO0,40_KE41,54.htm?jl=1008983991661&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=a872a7194566e917&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   }

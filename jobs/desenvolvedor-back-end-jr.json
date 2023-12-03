@@ -1,81 +1,33 @@
 [
   {
-    "title": "Desenvolvimento Backend Junior",
-    "salary": "",
+    "title": "PontoTel - Desenvolvedor Back End Jr (Remoto)",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
-    "company": "Webjump",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmYmSUymkqybsYpPpeSGkmD9lYsAF0RvsoscP-LFI&s",
-    "description": "A posição de Desenvolvedor Backend será responsável por entender as necessidades do negócio junto com o time e atuar no desenvolvimento e manutenção de sistemas de e-commerce utilizando a plataforma Adobe Commerce. O profissional atuará dentro de um time ...",
+    "company": "Pontotel",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Descrição da vaga  Aqui você terá a chance de crescer e construir com o time um ambiente agradável, descontraído e desafiador, trabalhando em colaboração com profissionais de produto, marketing, desenvolvimento, vendas e implantação. Não somos designers de balcão de pedidos, somos parte do fluxo, do processo e das ideias.  Todas as ideias são ouvidas, respeitadas e levadas em consideração. Além disso, a equipe é incentivada a sair da zona de conforto e trazer soluções inovadoras. Que tal fazer parte desse time?  Responsabilidades e atribuições  Utilizamos tecnologia de ponta em todas as subáreas do nosso time: • Infraestrutura com script de criação do Terraforms e todo ambiente no Kunbernetes do Google; • Backend Python e ambiente de CI/CD completo; • Frontend Vue.js(3) nas mais modernas práticas de programação; • Aplicativos mobile em React native e grande processo de prototipação e produtização; • Design e UX próximo dos desenvolvedores; • Equipes Scrum e Scrumban; • Funcionalidades... com machine learning e reconhecimento de imagens  O que vou fazer? • Desenvolvimento de novas funcionalidades para o sistema; • Manutenção e melhoria de código de funcionalidades existente; • Desen • v • olvimento de testes unitários para o sistema; • *  Auxiliar a equipe de suporte e implantação com questões internas e necessidades de clientes.  Requisitos e qualificações • Disciplina para executar tarefas do dia a dia; • Organização e pró-atividade;  Boa comunicação interpessoal; • Conheci • mento de API REST; • * Conhecimento em JavaScript ES6; • VueJS (3.0); • HTML: • CSS.  E os diferenciais? • GIT; • Webpack; • CSS Grid ou Flexbox.  Informações adicionais • Vale Refeição e/ouAlimentação via cartão Caju (aceito em todos os restaurantes, supermercados, ifood, etc.) • Seguro de saúde 100% pago pela empresa; • Seguro de vida; • Auxílio Creche; • Licença Maternidade prolongada; • Plano de carreira personalizado com possibilidade de promoção a cada 6 meses; • Bonificação a cada promoção; • Salário competitivo; • Horários Flexíveis; • Ambiente casual e aprendizado constante; • Acesso a cursos complementares a partir do primeiro dia de trabalho; • Treinamento semanal com o time para aprimorar habilidades técnicas; • Tempo para cursos de aprimoramento; • Day-off no mês do aniversário; • Happy Hour por conta da PontoTel",
     "links": [
+      {
+        "content": "Acesse em Pontotel - Gupy",
+        "href": "https://pontotel.gupy.io/jobs/3865424?jobBoardSource=gupy_public_page&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=11d3f0c9b59d11dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
       {
         "content": "Acesse em Glassdoor",
-        "href": "https://www.glassdoor.com.br/job-listing/desenvolvimento-backend-junior-webjump-JV_KO0,30_KE31,38.htm?jl=1008960041038&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Webjump - Gupy",
-        "href": "https://webjump.gupy.io/job/eyJqb2JJZCI6NTgyNjAyMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Empregos Trabajo.org",
-        "href": "https://br.trabajo.org/emprego-2204-20231027-8869b89d0954e9ee478914816cb271d7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Jobilize",
-        "href": "https://www.jobilize.com/job/br-santo-amaro-desenvolvimento-backend-php-netvagas-60638988-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Desenvolvedor(a) Python/Ruby Júnior (Operações de Dados e Backend) [100...",
-    "salary": "R$ 3 mil por mês",
-    "location": "Qualquer lugar",
-    "company": "Speed IO",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGB7rZzweHyYUfPsGTb7eK6ppwGjjZ4kwTh8Oicdk9kHVijw9NuNaJ9g&s",
-    "description": "Habilidades\nPython, MongoDB, Ruby\n\nO que nós buscamos\nTrabalhar em conjunto com o time de Big Data no processo de captura, processamento e cruzamento de dados. Controlar nossos bots, automatizações e aprimorar nossas APIs. Realizar a aplicação e manutençã...",
-    "links": [
-      {
-        "content": "Acesse em ProgramaThor",
-        "href": "https://programathor.com.br/jobs/29268-desenvolvedor-a-python-ruby-junior-operacoes-de-dados-e-backend-100-remoto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Pessoa Desenvolvedora Back-end Junior I Produtos",
-    "salary": "",
-    "location": "Qualquer lugar",
-    "company": "BigDataCorp",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-3QTHt5AoniSxLJMm07pEF874NCe-0qDPcrLbWI&s",
-    "description": "Sobre a BigDataCorp\n\nA BigDataCorp é a maior datatech da América Latina, e democratiza, desde 2013, o acesso aos dados, aumentando possibilidades e certezas em um mundo repleto de incertezas.\n\nSomos pioneiros na captura, estruturação, armazenamento e dist...",
-    "links": [
-      {
-        "content": "Acesse em LinkedIn",
-        "href": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-back-end-junior-i-produtos-at-bigdatacorp-3742312361?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Candidatar-se no site Indeed",
-        "href": "https://br.indeed.com/viewjob?jk=25dadfc63b0c1297&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Candidatar-se no site Jobs By Workable",
-        "href": "https://jobs.workable.com/view/pVJF7UvtTFTpW5Th3AQgXs/remote-pessoa-desenvolvedora-back-end-junior-i-produtos-in-rio-de-janeiro-at-bigdatacorp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Candidatar-se no site Glassdoor",
-        "href": "https://www.glassdoor.com.br/job-listing/pessoa-desenvolvedora-back-end-junior-i-produtos-bigdatacorp-JV_IC2402386_KO0,48_KE49,60.htm?jl=1008933653268&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Jobgether",
-        "href": "https://jobgether.com/offer/653121f795ecd1c484588d62-pessoa-desenvolvedora-back-end-junior-i-produtos?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "href": "https://www.glassdoor.com.br/job-listing/pontotel-desenvolvedor-back-end-jr-remoto-pontotel-JV_KO0,41_KE42,50.htm?jl=1008396415884&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Desenvolvedor(a) Backend Java (Remoto)",
-    "salary": "R$ 5,5 mil a R$ 16,5 mil por mês",
+    "salary": "R$ 5,5 mil a R$ 16,5 mil ",
     "location": "Qualquer lugar",
     "company": "Improving",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86dJS5_2SFkSgnoY7hTnCUP7xEToNhf-9oNindWg&s",
-    "description": "Tem experiência com sistemas distribuídos em Java e gostaria de trabalhar da sua casa implementando sistemas que serão usados por milhões de pessoas em uma empresa que valoriza e dá autonomia aos profissionais?\n\nVocê poderá trabalhar de qualquer lugar do ...",
+    "description": "Tem experiência com sistemas distribuídos em Java e gostaria de trabalhar da sua casa implementando sistemas que serão usados por milhões de pessoas em uma empresa que valoriza e dá autonomia aos profissionais?  Você poderá trabalhar de qualquer lugar do Brasil, em regime 100% remoto CLT. A empresa é uma consultoria que existe há 11 anos e foca apenas em projetos de longa duração que tragam impacto positivo para a sociedade e que ajudem os desenvolvedores a evoluir. Além disso, acredita em desenvolvimento ágil, DevOps e trabalho remoto e segue um modelo completamente diferente do body shop - você não está condicionado ao projeto em que iniciará nem se o cliente manterá o projeto ou não. Algumas práticas do dia a dia mostram que você realmente é parte da empresa, como por exemplo os projetos possuírem code review de pessoas externas àquela conta.  Há equipes atendendo a diferentes negócios e com tecnologias distintas, como bancos digitais, pagamentos e cartões, grandes e-commerces... envolvendo usos de linguagens diferentes da JVM, como Java, Kotlin e Clojure, sempre com arquiteturas reativas modernas de microsserviços.  Por que eu deveria me candidatar a essa vaga: • Trabalhar remotamente, com qualidade de vida, interagindo com tecnologias de ponta, definindo a arquitetura e participando na construção de sistemas que serão usados por milhões de pessoas; • Ter autonomia e incentivo ao crescimento profissional, tendo tempo de prototipar com o time diferentes tecnologias para ver qual atende melhor às necessidades do cliente; • Você será contratado em regime CLT, com salário entre R$ 5.500 e R$ 16.500 (dependendo de como você for avaliado), R$ 1.100 em vale-refeição ou vale-alimentação (você escolhe) com um pagamento extra em dezembro, plano de saúde SulAmérica ou Unimed integral (com desconto de 50% para dependentes), plano odontológico SulAmérica, seguro de vida, auxílio creche, aulas de inglês, auxílio equipamento (notebook, cadeira etc) de R$ 4.000,00 e mais um bônus anual de até 3 salários com base no desempenho da empresa.  Para se candidatar, você precisa ter: • Espírito de trabalho em equipe, comprometimento e vontade de pôr a mão na massa; • Capacidade de aprender rapidamente tecnologias emergentes mediante ao consumo de livros, documentação técnica, vídeos ou palestras; • Domínio de orientação a objetos, Java SE 8 (incluindo lambda) e suas APIs principais (java.lang, Collections, streams, etc); • Conhecimento e consciência da necessidade de testes unitários, de integração e aceitação; • Sólidos conhecimentos em bancos de dados relacionais; • Familiaridade com Docker  Alguns diferenciais serão: • Sólidos conhecimentos em arquitetura reativa; • Sólidos conhecimentos de pelo menos um ambiente de cloud; • Ampla experiência com integrações de sistemas, arquitetura de microsserviços e DDD; • Conhecimento prático de técnicas para escalar serviços e resolver problemas de performance; • Experiência com Kotlin, Clojure e/ou com as versões mais recentes do Java SE; • Experiência com Spring WebFlux; • Experiência com Google Cloud Platform; • Experiência com Kubernetes; • Experiência com bancos NoSQL; • Conhecimentos de segurança; • Conhecimentos de entrega contínua e automação de infraestrutura em geral  Como se candidatar:  Basta enviar seu nome e email para o nosso sistema e te enviaremos as instruções",
     "links": [
       {
         "content": "Acesse em Glassdoor",
@@ -84,16 +36,70 @@
       {
         "content": "Acesse em Indeed",
         "href": "https://br.indeed.com/viewjob?jk=0bdbc3388b06ee74&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em JOBATUS",
+        "href": "https://www.jobatus.com.br/vaga-emprego/desenvolvedora-backend-java-remoto-459650987?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Desenvolvedor(a) Python/Ruby Júnior (Operações de Dados e Backend) [100...",
+    "salary": "R$ 3 mil ",
+    "location": "Qualquer lugar",
+    "company": "Speed IO",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGB7rZzweHyYUfPsGTb7eK6ppwGjjZ4kwTh8Oicdk9kHVijw9NuNaJ9g&s",
+    "description": "Habilidades Python, MongoDB, Ruby  O que nós buscamos Trabalhar em conjunto com o time de Big Data no processo de captura, processamento e cruzamento de dados. Controlar nossos bots, automatizações e aprimorar nossas APIs. Realizar a aplicação e manutenção de modelos de machine learning.  Principais responsabilidades - Experiência prática em desenvolvimento de software ou áreas afins é valorizada, mesmo sem formação superior em Computação. - Experiência com banco de dados NoSQL é desejável. Ter trabalhado com Elasticsearch é um diferencial. - Conhecimento em pelo menos uma linguagem de programação como Python, Ruby ou Node. - Compreensão dos conceitos básicos de servidores, protocolos e estrutura web. - Ser proativo, curioso e ter muita vontade de aprender. - Experiência ChatGPT será considerado um diferencial.  Descrição da empresa A Speedio é uma Startup que aplica Big Data para vendas. Através do cruzamento de mais de 2 bilhões de data points facilitamos a vida de profissionais de... vendas por meio de automatização e análise preditiva. Nosso produto é direcionado para a audiência global e contamos com o apoio e auxílio de PhDs em BigData e Machine Learning.  Benefícios",
+    "links": [
+      {
+        "content": "Acesse em ProgramaThor",
+        "href": "https://programathor.com.br/jobs/29268-desenvolvedor-a-python-ruby-junior-operacoes-de-dados-e-backend-100-remoto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Desenvolvedor(a) Back-end Júnior a Pleno Python",
+    "salary": "R$ 5,5 mil a R$ 7,5 mil ",
+    "location": "Qualquer lugar",
+    "company": "GeekHunter",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOksfUXTA8qu7tyPhn5S_wX1C0ZcFJDsSvc_v1ac&s",
+    "description": "Remoto  Faixa Salarial  R$ 5.500,00 - 7.500,00 (CLT)  R$ 6.000,00 - 8.000,00 (PJ)  Senioridade  Pleno  (2-4 anos de experiência)  Empresa  O nome da empresa será mostrado caso você receba um convite.  Ok, entendi.  Fintech  Surgimos em 2017 com a visão de ser fator de mudanças nas finanças pessoais. Enxergamos a partir do modelo B2B, um caminho para melhorar a operação dos escritórios de assessoria de investimentos e, indiretamente, o atendimento e as soluções disponíveis para os investidores (B2B2C).  Nós cuidamos dos profissionais do mercado financeiro para que eles possam cuidar dos investidores. Nosso sonho é atender eles de ponta a ponta. Nosso objetivo é entregar estratégia, soluções para o dia-a-dia e uma plataforma white label onde ele consiga realizar todos os processos chave da operação com a nossa tecnologia. Temos bastante desafio pela frente!  Nesses últimos quase 5 anos, atendemos +200 assessorias de investimentos e hoje somos parceiros de +100, nos tornando referência... nacional para assuntos relacionados à tecnologia e M&A.  Benefícios  Vale refeição  Vale alimentação  Jornada flexível  Home office periódico  Participações nos lucros  Requisitos  Tecnologias Necessárias  Conhecimentos obrigatórios  Tecnologias Desejáveis  Conhecimentos não obrigatórios  PANDAS  POSTGRESQL  Senioridade  Tempo de experiência  Pleno (2-4 anos de experiência) • Pelo menos 2 a 3 anos de experiência com Python; • Conhecimento básico/intermediário com banco de dados; • Conhecimento com criação de APIs REST; • Conhecimento com integração de APIs;  Atividades • Criação de tabelas no banco de dados e CRUDs das mesmas; • Integração com APIs parceiras; • Tratamento de dados; • Criação de lógicas específicas do mercado financeiro; • Testes de integração automatizados",
+    "links": [
+      {
+        "content": "Acesse em Glassdoor",
+        "href": "https://www.glassdoor.com.br/job-listing/desenvolvedor-a-back-end-j%C3%BAnior-a-pleno-python-geekhunter-JV_KO0,46_KE47,57.htm?jl=1008884321412&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=c09f995382551fa6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Sercanto",
+        "href": "https://br.sercanto.com/detail/a/desenvolvedor-a-back-end-junior-a-pleno-python-remoto_brasil_581728835?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Desenvolvedor(a) Pleno - Back-End",
+    "salary": "R$ 7 mil ",
+    "location": "Qualquer lugar",
+    "company": "Nucont",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUic79_WyrxCQCCabAIiNNGOsTNckp6GnaQ4o0as&s",
+    "description": "Habilidades Node.js, MongoDB, JavaScript  O que nós buscamos - Líder Técnico; - Ponto de apoio para desenvolvedores Junior; - Desenvolvimento e manutenção de aplicações web; - Realizar a manutenção e criação de novas funcionalidades; - Desenvolvimento de funcionalidades no Back-End; - Desenvolver e sustentar integrações; - Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas;  Principais responsabilidades - Experiência prévia nas linguagens informadas; - Conhecimento de metodologias de desenvolvimento;  Descrição da empresa O Nucont é uma plataforma que diagnostica a saúde da empresas. Ele é o laboratório para o médico das empresas, o contador. Por meio do uso do Nucont o contador se posicionará de forma diferenciada, com uma visão, não apenas de cuidar da burocracia, mas sim, de olhar para os números e indicadores da empresa. O Nucont possibilita a valorização do que ele sempre quis fazer e possibilita o aumento do faturamento com isso!Bem, mas antes de... falar mais do Nucont, é importante saber como que eu cheguei até aqui.  Benefícios  Vale Refeição; Vale Transporte",
+    "links": [
+      {
+        "content": "Acesse em ProgramaThor",
+        "href": "https://programathor.com.br/jobs/10683-desenvolvedor-a-pleno?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Programador JavaScript Junior",
-    "salary": "R$ 1,5 mil a R$ 3,5 mil por mês",
+    "salary": "R$ 1,5 mil a R$ 3,5 mil ",
     "location": "Qualquer lugar",
     "company": "App Masters",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsD0NuGPQLOC2cErM2ADab18k1BpYMTVrcz5p_fA&s",
-    "description": "Estamos em um momento de crescimento da empresa, e então criando novos times de desenvolvedores, para trabalhar em projetos nossos e de nossos clientes.\n\nPara esta oportunidade em especial, buscamos devs que realmente tenham skills em React ou Node. Não é...",
+    "description": "Estamos em um momento de crescimento da empresa, e então criando novos times de desenvolvedores, para trabalhar em projetos nossos e de nossos clientes.  Para esta oportunidade em especial, buscamos devs que realmente tenham skills em React ou Node. Não é preciso ser bom nos dois, mas precisa mesmo ser bom em um deles. O JavaScript é fundamental em todo caso.  ## Se seu foco for backend  Se o servidor, a API, o banco de dados e as regras de negócios são as partes que você mais se identifica, então o backend é sua praia.  ### Requisitos - Saber trabalhar com Node - Saber trabalhar com MySql ou Postgres - Testes automatizados  ### São diferenciais - Adonis.js - TypeScript - Docker - Saber realizar deploys ou manter um servidor  ## Se seu foco for frontend  Se pra você o navegador é a parte mais importante, com a interface para o usuário, a usabilidade, a adequação do projeto para vários tipos e tamanhos de telas, então o frontend é seu ponto forte.  ### Requisitos - Saber trabalhar com... React ou React Native - Ter estudado Redux - Conhecer bem CSS e responsividades  ### São diferenciais - Styled Components - Storybook - Cypress - PWA - TypeScript - Next.js",
     "links": [
       {
         "content": "Acesse em Programadores Em Juiz De Fora",
@@ -102,26 +108,26 @@
     ]
   },
   {
-    "title": "Desenvolvedor(a) Back End Pleno - Back-End",
-    "salary": "",
+    "title": "Desenvolvedor Back End",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
-    "company": "Mandic Cloud Solution",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXSSfFKIR-Eazn4ZhNAN7kc_5SctkJDiuzbfiyrj4&s",
-    "description": "Habilidades\nGit, JavaScript, HTML, CSS\n\nO que nós buscamos\nResolver problemas do mundo real com uso de tecnologia;\nLer e Entender software proprietário ou de terceiros;\nEscrever, testar e entregar software de qualidade, seguro e escalável;\nManter e evolui...",
+    "company": "BR GAAP Corporation",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_oxNT-B2mw3QtzDDr5g2MdsOGK0TfpIle6CxV0Y&s",
+    "description": "A BR GAAP é uma organização que se dedica a construir soluções inteligentes e que atua em todo o Brasil, simplificando os processos e aumentando a performance organizacional.  Recomeçamos a cada dia, conectando gente aos diferentes caminhos, integrando elos ao futuro sustentável que almejamos!  O que nos move?  Inovação constante, Excelência, Transparência, Eficiência, Compromisso, Valorização, Reconhecimento, Humanização, Integridade, Dignidade, Ética e Constante Responsabilidade Social.  Vem ser um Gaaper!  Principais Atividades: • Desafiar diariamente seus conhecimentos; • Testar e aplicar novas tecnologias; • Desenvolver aplicações .net C# e frameworks; • Participará das Sprints buscando atender as PBI de requisitos ou de correção/bug; • Criar soluções incríveis usando tecnologias disruptivas. • Requisitos: Cursos de Analise de Sistemas, Tecnologia da Informação ou relacionadas com TI. - .Net C# • Experiencia com ORM • Experiencia com SQL / Postgres • Principio SOLID • POO... (Programação Orientada a Objeto).  Informações adicionais:  Para se integrar no nosso time é importante que você seja capaz de: • Desenvolver autonomia, autogestão e resiliência; • Ter visão sistêmica e análise crítica para se posicionar e contribuir com novas ideias e soluções; • Proatividade e curiosidade, a aprendizagem contínua é altamente necessária em nosso ecossistema; • Ter um perfil colaborativo e trabalhar em harmonia e coesão com a equipe;  Horário de Atendimento ao Cliente: Segunda à Sexta - 8h às 18h  Sede da BR GAAP: Jardim Vitória - Goiânia - Goiás  Local de Trabalho: Remoto ou Híbrido  Oferecemos: Remuneração fixa + Aux. Home Office (R$100,00/Mês) ou Aux. Mobilidade (R$20,00/dia trabalhado de forma presencial) + Aux. Alimentação (R$42,00/dia) + Day-Off + Bolsa de Estudos (até R$200,00/Mês) + Plano de Saúde + Plano Odontológico + Seguro de Vida + Parcerias Educacionais + Plano de Carreira.  Contratação: Cooperativa",
     "links": [
       {
-        "content": "Acesse em ProgramaThor",
-        "href": "https://programathor.com.br/jobs/13150-desenvolvedor-a-back-end-pleno?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em LinkedIn",
+        "href": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-at-br-gaap-corporation-3705625171?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Desenvolvedor",
-    "salary": "R$ 3.150 por mês",
+    "salary": "R$ 3.150 ",
     "location": "Qualquer lugar",
     "company": "Cebraspe",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKEieEOqXgk5wKFhihib9VWXdPmxBqWKpJHYBq5U&s",
-    "description": "Descrição Geral:Empresa: cebraspe vaga: desenvolvedor back-End júnior c# (Informação Confidencial)Realizar levantamento de requisitos de software. Desenvolver aplicações com o uso das melhores práticas de engenharia de software. Realizar a criação de api ...",
+    "description": "Descrição Geral:Empresa: cebraspe vaga: desenvolvedor back-End júnior c# (Informação Confidencial)Realizar levantamento de requisitos de software. Desenvolver aplicações com o uso das melhores práticas de engenharia de software. Realizar a criação de api restful. Jornada: 40h semanais (8h às 18h). Escolaridade: ensino superior completo em análise de sistemas, ciência da computação, processamento de dados, sistemas de informação, informática, engenharia da computação, engenharia de software ou áreas afins. Requisitos: noções básicas de desenvolvimento de software com c# e .Net. Vivência em metodologias de desenvolvimento de software. Conhecimento de ferramentas de versionamento (git).",
     "links": [
       {
         "content": "Acesse em Trabalha Brasil",
@@ -130,55 +136,30 @@
     ]
   },
   {
-    "title": "Analista Programador - home office",
-    "salary": "R$ 2,5 mil por mês",
+    "title": "Desenvolvedor Backend",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
-    "company": "Confidencial",
-    "description": "Empresa localizada na cidade de São Paulo/SP do ramo Informática, contrata Analista Programador. Atribuições: It developer i (pcd)country: brazil what you will be doing como desenvolvedor back-End java júnior você deve possuir conhecimentos fundamentais e...",
+    "company": "LienTech",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Atuar em time com foco principal em desenvolvimento backend; Auxiliar na definição dos requisitos para criação e manutenção de sistemas/produtos; Participar ativamente do desenho das soluções",
     "links": [
       {
-        "content": "Acesse em Jobzi",
-        "href": "https://jobzi.com/vaga/analista-programador-home-office-qjnybpbt?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Desenvolvedor back-end Magento JR",
-    "salary": "",
-    "location": "Qualquer lugar",
-    "company": "Nexaas",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwsTbPoM1TTQY3pKlxD9zoaGOKdiOhxNLxDq6Zss&s",
-    "description": "Nós somos apaixonados pelo varejo e por tudo o que fazemos, somos adeptos da simplicidade e estamos ansiosos e curiosos para conhecer pessoas com esse mesmo propósito. Nossos valores são pautados em entregar a melhor experiência para o cliente, com result...",
-    "links": [
-      {
-        "content": "Acesse em LinkedIn",
-        "href": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-magento-jr-at-nexaas-3755905323?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em NerdIn",
+        "href": "https://www.nerdin.com.br/vaga/69791?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
-        "content": "Acesse em Glassdoor",
-        "href": "https://www.glassdoor.com.br/job-listing/desenvolvedor-back-end-magento-jr-carreiras-nexaas-JV_KO0,33_KE34,50.htm?jl=1008958256894&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Nexaas - Gupy",
-        "href": "https://nexaas.gupy.io/jobs/4794482?jobBoardSource=gupy_public_page&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Indeed",
-        "href": "https://br.indeed.com/viewjob?jk=a4151e396fa5e528&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em JavaScript Jobs",
-        "href": "https://javascriptjob.xyz/job/2PjA7JbaQbQUEBcavkMjznMxcuT/Desenvolvedor%20back-end%20Magento%20JR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em Empregos Trabajo.org",
+        "href": "https://br.trabajo.org/emprego-1259-20231116-3e252a87ec2f47037c77d1f99cff88e8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Desenvolvedor(a) Back End Node.JS Júnior - Back-End",
-    "salary": "R$ 3,5 mil por mês",
+    "salary": "R$ 3,5 mil ",
     "location": "Qualquer lugar",
     "company": "Enliv",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
-    "description": "Habilidades\nAdonisJS, JavaScript, Node.js, PostgreSQL, RESTful\n\nO que nós buscamos\nEstamos em busca de um(a) Desenvolvedor(a) Backend altamente qualificado(a) para se juntar à nossa equipe de tecnologia. Se você é apaixonado por programação, possui sólido...",
+    "description": "Habilidades AdonisJS, JavaScript, Node.js, PostgreSQL, RESTful  O que nós buscamos Estamos em busca de um(a) Desenvolvedor(a) Backend altamente qualificado(a) para se juntar à nossa equipe de tecnologia. Se você é apaixonado por programação, possui sólidos conhecimentos em JavaScript e experiência com o framework AdonisJS, esta é uma oportunidade emocionante para se destacar em um ambiente inovador e colaborativo. Responsabilidades: Desenvolver e manter aplicações backend eficientes e escaláveis utilizando JavaScript e o framework AdonisJS. Colaborar com a equipe de desenvolvimento para projetar e implementar APIs robustas e de alto desempenho. Participar ativamente do ciclo de desenvolvimento de software, desde o planejamento até a entrega. Otimizar o desempenho das aplicações, identificando e resolvendo gargalos e problemas de escalabilidade. Escrever código limpo, legível e bem documentado, seguindo melhores práticas de desenvolvimento.  Principais responsabilidades Pelo menos 2... anos de experiência com desenvolvimento em JavaScript. Experiência sólida com o framework AdonisJS. Conhecimento em banco de dados relacionais e modelagem de dados. Familiaridade com sistemas de controle de versão, como Git. Capacidade de trabalhar de forma independente e em equipe, colaborando com outros membros da equipe de desenvolvimento e áreas afins. Excelentes habilidades de resolução de problemas e pensamento analítico. Atitude proativa e orientada a resultados. Boas habilidades de comunicação oral e escrita. Diferenciais: Experiência com outras linguagens de programação, como Node.js e Python. Familiaridade com práticas ágeis de desenvolvimento e metodologias como Scrum ou Kanban. Conhecimento em desenvolvimento de APIs RESTful. Interesse em manter-se atualizado(a) com as tendências e avanços da tecnologia.  Descrição da empresa Queremos ajudar pessoas e empresas. Estamos aqui para auxiliar a sociedade a passar pela transição verde.  Nós garantimos, de forma extremamente simples, economia mensal na conta de luz de residências e empresas, conectando usinas geradoras de energia limpa a consumidores finais.  Fazemos tudo isso de forma livre. Sem investimentos, sem taxa de adesão e com um contrato extremamente claro e enxuto, sem amarras, pois simplicidade, facilidade e inovação fazem parte do nosso DNA.  Enliv - energia livre ⚡️💚  Benefícios",
     "links": [
       {
         "content": "Acesse em ProgramaThor",
@@ -187,82 +168,34 @@
     ]
   },
   {
-    "title": "Desenvolvimento Backend Junior",
-    "salary": "",
+    "title": "PontoTel - Desenvolvedor Back End Jr (Remoto)",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
-    "company": "Webjump",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmYmSUymkqybsYpPpeSGkmD9lYsAF0RvsoscP-LFI&s",
-    "description": "A posição de Desenvolvedor Backend será responsável por entender as necessidades do negócio junto com o time e atuar no desenvolvimento e manutenção de sistemas de e-commerce utilizando a plataforma Adobe Commerce. O profissional atuará dentro de um time ...",
+    "company": "Pontotel",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Descrição da vaga  Aqui você terá a chance de crescer e construir com o time um ambiente agradável, descontraído e desafiador, trabalhando em colaboração com profissionais de produto, marketing, desenvolvimento, vendas e implantação. Não somos designers de balcão de pedidos, somos parte do fluxo, do processo e das ideias.  Todas as ideias são ouvidas, respeitadas e levadas em consideração. Além disso, a equipe é incentivada a sair da zona de conforto e trazer soluções inovadoras. Que tal fazer parte desse time?  Responsabilidades e atribuições  Utilizamos tecnologia de ponta em todas as subáreas do nosso time: • Infraestrutura com script de criação do Terraforms e todo ambiente no Kunbernetes do Google; • Backend Python e ambiente de CI/CD completo; • Frontend Vue.js(3) nas mais modernas práticas de programação; • Aplicativos mobile em React native e grande processo de prototipação e produtização; • Design e UX próximo dos desenvolvedores; • Equipes Scrum e Scrumban; • Funcionalidades... com machine learning e reconhecimento de imagens  O que vou fazer? • Desenvolvimento de novas funcionalidades para o sistema; • Manutenção e melhoria de código de funcionalidades existente; • Desen • v • olvimento de testes unitários para o sistema; • *  Auxiliar a equipe de suporte e implantação com questões internas e necessidades de clientes.  Requisitos e qualificações • Disciplina para executar tarefas do dia a dia; • Organização e pró-atividade;  Boa comunicação interpessoal; • Conheci • mento de API REST; • * Conhecimento em JavaScript ES6; • VueJS (3.0); • HTML: • CSS.  E os diferenciais? • GIT; • Webpack; • CSS Grid ou Flexbox.  Informações adicionais • Vale Refeição e/ouAlimentação via cartão Caju (aceito em todos os restaurantes, supermercados, ifood, etc.) • Seguro de saúde 100% pago pela empresa; • Seguro de vida; • Auxílio Creche; • Licença Maternidade prolongada; • Plano de carreira personalizado com possibilidade de promoção a cada 6 meses; • Bonificação a cada promoção; • Salário competitivo; • Horários Flexíveis; • Ambiente casual e aprendizado constante; • Acesso a cursos complementares a partir do primeiro dia de trabalho; • Treinamento semanal com o time para aprimorar habilidades técnicas; • Tempo para cursos de aprimoramento; • Day-off no mês do aniversário; • Happy Hour por conta da PontoTel",
     "links": [
+      {
+        "content": "Acesse em Pontotel - Gupy",
+        "href": "https://pontotel.gupy.io/jobs/3865424?jobBoardSource=gupy_public_page&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=11d3f0c9b59d11dd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
       {
         "content": "Acesse em Glassdoor",
-        "href": "https://www.glassdoor.com.br/job-listing/desenvolvimento-backend-junior-webjump-JV_KO0,30_KE31,38.htm?jl=1008960041038&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Webjump - Gupy",
-        "href": "https://webjump.gupy.io/job/eyJqb2JJZCI6NTgyNjAyMywic291cmNlIjoiZ3VweV9wb3J0YWwifQ==?jobBoardSource=gupy_portal&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Empregos Trabajo.org",
-        "href": "https://br.trabajo.org/emprego-2204-20231027-8869b89d0954e9ee478914816cb271d7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Jobilize",
-        "href": "https://www.jobilize.com/job/br-santo-amaro-desenvolvimento-backend-php-netvagas-60638988-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Desenvolvedor(a) Python/Ruby Júnior (Operações de Dados e Backend) [100...",
-    "salary": "R$ 3 mil por mês",
-    "location": "Qualquer lugar",
-    "company": "Speed IO",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGB7rZzweHyYUfPsGTb7eK6ppwGjjZ4kwTh8Oicdk9kHVijw9NuNaJ9g&s",
-    "description": "Habilidades\nPython, MongoDB, Ruby\n\nO que nós buscamos\nTrabalhar em conjunto com o time de Big Data no processo de captura, processamento e cruzamento de dados. Controlar nossos bots, automatizações e aprimorar nossas APIs. Realizar a aplicação e manutençã...",
-    "links": [
-      {
-        "content": "Acesse em ProgramaThor",
-        "href": "https://programathor.com.br/jobs/29268-desenvolvedor-a-python-ruby-junior-operacoes-de-dados-e-backend-100-remoto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Pessoa Desenvolvedora Back-end Junior I Produtos",
-    "salary": "",
-    "location": "Qualquer lugar",
-    "company": "BigDataCorp",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-3QTHt5AoniSxLJMm07pEF874NCe-0qDPcrLbWI&s",
-    "description": "Sobre a BigDataCorp\n\nA BigDataCorp é a maior datatech da América Latina, e democratiza, desde 2013, o acesso aos dados, aumentando possibilidades e certezas em um mundo repleto de incertezas.\n\nSomos pioneiros na captura, estruturação, armazenamento e dist...",
-    "links": [
-      {
-        "content": "Acesse em LinkedIn",
-        "href": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-back-end-junior-i-produtos-at-bigdatacorp-3742312361?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Candidatar-se no site Indeed",
-        "href": "https://br.indeed.com/viewjob?jk=25dadfc63b0c1297&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Candidatar-se no site Jobs By Workable",
-        "href": "https://jobs.workable.com/view/pVJF7UvtTFTpW5Th3AQgXs/remote-pessoa-desenvolvedora-back-end-junior-i-produtos-in-rio-de-janeiro-at-bigdatacorp?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Candidatar-se no site Glassdoor",
-        "href": "https://www.glassdoor.com.br/job-listing/pessoa-desenvolvedora-back-end-junior-i-produtos-bigdatacorp-JV_IC2402386_KO0,48_KE49,60.htm?jl=1008933653268&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Jobgether",
-        "href": "https://jobgether.com/offer/653121f795ecd1c484588d62-pessoa-desenvolvedora-back-end-junior-i-produtos?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "href": "https://www.glassdoor.com.br/job-listing/pontotel-desenvolvedor-back-end-jr-remoto-pontotel-JV_KO0,41_KE42,50.htm?jl=1008396415884&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Desenvolvedor(a) Backend Java (Remoto)",
-    "salary": "R$ 5,5 mil a R$ 16,5 mil por mês",
+    "salary": "R$ 5,5 mil a R$ 16,5 mil ",
     "location": "Qualquer lugar",
     "company": "Improving",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86dJS5_2SFkSgnoY7hTnCUP7xEToNhf-9oNindWg&s",
-    "description": "Tem experiência com sistemas distribuídos em Java e gostaria de trabalhar da sua casa implementando sistemas que serão usados por milhões de pessoas em uma empresa que valoriza e dá autonomia aos profissionais?\n\nVocê poderá trabalhar de qualquer lugar do ...",
+    "description": "Tem experiência com sistemas distribuídos em Java e gostaria de trabalhar da sua casa implementando sistemas que serão usados por milhões de pessoas em uma empresa que valoriza e dá autonomia aos profissionais?  Você poderá trabalhar de qualquer lugar do Brasil, em regime 100% remoto CLT. A empresa é uma consultoria que existe há 11 anos e foca apenas em projetos de longa duração que tragam impacto positivo para a sociedade e que ajudem os desenvolvedores a evoluir. Além disso, acredita em desenvolvimento ágil, DevOps e trabalho remoto e segue um modelo completamente diferente do body shop - você não está condicionado ao projeto em que iniciará nem se o cliente manterá o projeto ou não. Algumas práticas do dia a dia mostram que você realmente é parte da empresa, como por exemplo os projetos possuírem code review de pessoas externas àquela conta.  Há equipes atendendo a diferentes negócios e com tecnologias distintas, como bancos digitais, pagamentos e cartões, grandes e-commerces... envolvendo usos de linguagens diferentes da JVM, como Java, Kotlin e Clojure, sempre com arquiteturas reativas modernas de microsserviços.  Por que eu deveria me candidatar a essa vaga: • Trabalhar remotamente, com qualidade de vida, interagindo com tecnologias de ponta, definindo a arquitetura e participando na construção de sistemas que serão usados por milhões de pessoas; • Ter autonomia e incentivo ao crescimento profissional, tendo tempo de prototipar com o time diferentes tecnologias para ver qual atende melhor às necessidades do cliente; • Você será contratado em regime CLT, com salário entre R$ 5.500 e R$ 16.500 (dependendo de como você for avaliado), R$ 1.100 em vale-refeição ou vale-alimentação (você escolhe) com um pagamento extra em dezembro, plano de saúde SulAmérica ou Unimed integral (com desconto de 50% para dependentes), plano odontológico SulAmérica, seguro de vida, auxílio creche, aulas de inglês, auxílio equipamento (notebook, cadeira etc) de R$ 4.000,00 e mais um bônus anual de até 3 salários com base no desempenho da empresa.  Para se candidatar, você precisa ter: • Espírito de trabalho em equipe, comprometimento e vontade de pôr a mão na massa; • Capacidade de aprender rapidamente tecnologias emergentes mediante ao consumo de livros, documentação técnica, vídeos ou palestras; • Domínio de orientação a objetos, Java SE 8 (incluindo lambda) e suas APIs principais (java.lang, Collections, streams, etc); • Conhecimento e consciência da necessidade de testes unitários, de integração e aceitação; • Sólidos conhecimentos em bancos de dados relacionais; • Familiaridade com Docker  Alguns diferenciais serão: • Sólidos conhecimentos em arquitetura reativa; • Sólidos conhecimentos de pelo menos um ambiente de cloud; • Ampla experiência com integrações de sistemas, arquitetura de microsserviços e DDD; • Conhecimento prático de técnicas para escalar serviços e resolver problemas de performance; • Experiência com Kotlin, Clojure e/ou com as versões mais recentes do Java SE; • Experiência com Spring WebFlux; • Experiência com Google Cloud Platform; • Experiência com Kubernetes; • Experiência com bancos NoSQL; • Conhecimentos de segurança; • Conhecimentos de entrega contínua e automação de infraestrutura em geral  Como se candidatar:  Basta enviar seu nome e email para o nosso sistema e te enviaremos as instruções",
     "links": [
       {
         "content": "Acesse em Glassdoor",
@@ -271,16 +204,70 @@
       {
         "content": "Acesse em Indeed",
         "href": "https://br.indeed.com/viewjob?jk=0bdbc3388b06ee74&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em JOBATUS",
+        "href": "https://www.jobatus.com.br/vaga-emprego/desenvolvedora-backend-java-remoto-459650987?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Desenvolvedor(a) Python/Ruby Júnior (Operações de Dados e Backend) [100...",
+    "salary": "R$ 3 mil ",
+    "location": "Qualquer lugar",
+    "company": "Speed IO",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGB7rZzweHyYUfPsGTb7eK6ppwGjjZ4kwTh8Oicdk9kHVijw9NuNaJ9g&s",
+    "description": "Habilidades Python, MongoDB, Ruby  O que nós buscamos Trabalhar em conjunto com o time de Big Data no processo de captura, processamento e cruzamento de dados. Controlar nossos bots, automatizações e aprimorar nossas APIs. Realizar a aplicação e manutenção de modelos de machine learning.  Principais responsabilidades - Experiência prática em desenvolvimento de software ou áreas afins é valorizada, mesmo sem formação superior em Computação. - Experiência com banco de dados NoSQL é desejável. Ter trabalhado com Elasticsearch é um diferencial. - Conhecimento em pelo menos uma linguagem de programação como Python, Ruby ou Node. - Compreensão dos conceitos básicos de servidores, protocolos e estrutura web. - Ser proativo, curioso e ter muita vontade de aprender. - Experiência ChatGPT será considerado um diferencial.  Descrição da empresa A Speedio é uma Startup que aplica Big Data para vendas. Através do cruzamento de mais de 2 bilhões de data points facilitamos a vida de profissionais de... vendas por meio de automatização e análise preditiva. Nosso produto é direcionado para a audiência global e contamos com o apoio e auxílio de PhDs em BigData e Machine Learning.  Benefícios",
+    "links": [
+      {
+        "content": "Acesse em ProgramaThor",
+        "href": "https://programathor.com.br/jobs/29268-desenvolvedor-a-python-ruby-junior-operacoes-de-dados-e-backend-100-remoto?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Desenvolvedor(a) Back-end Júnior a Pleno Python",
+    "salary": "R$ 5,5 mil a R$ 7,5 mil ",
+    "location": "Qualquer lugar",
+    "company": "GeekHunter",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIOksfUXTA8qu7tyPhn5S_wX1C0ZcFJDsSvc_v1ac&s",
+    "description": "Remoto  Faixa Salarial  R$ 5.500,00 - 7.500,00 (CLT)  R$ 6.000,00 - 8.000,00 (PJ)  Senioridade  Pleno  (2-4 anos de experiência)  Empresa  O nome da empresa será mostrado caso você receba um convite.  Ok, entendi.  Fintech  Surgimos em 2017 com a visão de ser fator de mudanças nas finanças pessoais. Enxergamos a partir do modelo B2B, um caminho para melhorar a operação dos escritórios de assessoria de investimentos e, indiretamente, o atendimento e as soluções disponíveis para os investidores (B2B2C).  Nós cuidamos dos profissionais do mercado financeiro para que eles possam cuidar dos investidores. Nosso sonho é atender eles de ponta a ponta. Nosso objetivo é entregar estratégia, soluções para o dia-a-dia e uma plataforma white label onde ele consiga realizar todos os processos chave da operação com a nossa tecnologia. Temos bastante desafio pela frente!  Nesses últimos quase 5 anos, atendemos +200 assessorias de investimentos e hoje somos parceiros de +100, nos tornando referência... nacional para assuntos relacionados à tecnologia e M&A.  Benefícios  Vale refeição  Vale alimentação  Jornada flexível  Home office periódico  Participações nos lucros  Requisitos  Tecnologias Necessárias  Conhecimentos obrigatórios  Tecnologias Desejáveis  Conhecimentos não obrigatórios  PANDAS  POSTGRESQL  Senioridade  Tempo de experiência  Pleno (2-4 anos de experiência) • Pelo menos 2 a 3 anos de experiência com Python; • Conhecimento básico/intermediário com banco de dados; • Conhecimento com criação de APIs REST; • Conhecimento com integração de APIs;  Atividades • Criação de tabelas no banco de dados e CRUDs das mesmas; • Integração com APIs parceiras; • Tratamento de dados; • Criação de lógicas específicas do mercado financeiro; • Testes de integração automatizados",
+    "links": [
+      {
+        "content": "Acesse em Glassdoor",
+        "href": "https://www.glassdoor.com.br/job-listing/desenvolvedor-a-back-end-j%C3%BAnior-a-pleno-python-geekhunter-JV_KO0,46_KE47,57.htm?jl=1008884321412&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Indeed",
+        "href": "https://br.indeed.com/viewjob?jk=c09f995382551fa6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      },
+      {
+        "content": "Acesse em Sercanto",
+        "href": "https://br.sercanto.com/detail/a/desenvolvedor-a-back-end-junior-a-pleno-python-remoto_brasil_581728835?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+      }
+    ]
+  },
+  {
+    "title": "Desenvolvedor(a) Pleno - Back-End",
+    "salary": "R$ 7 mil ",
+    "location": "Qualquer lugar",
+    "company": "Nucont",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUic79_WyrxCQCCabAIiNNGOsTNckp6GnaQ4o0as&s",
+    "description": "Habilidades Node.js, MongoDB, JavaScript  O que nós buscamos - Líder Técnico; - Ponto de apoio para desenvolvedores Junior; - Desenvolvimento e manutenção de aplicações web; - Realizar a manutenção e criação de novas funcionalidades; - Desenvolvimento de funcionalidades no Back-End; - Desenvolver e sustentar integrações; - Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas;  Principais responsabilidades - Experiência prévia nas linguagens informadas; - Conhecimento de metodologias de desenvolvimento;  Descrição da empresa O Nucont é uma plataforma que diagnostica a saúde da empresas. Ele é o laboratório para o médico das empresas, o contador. Por meio do uso do Nucont o contador se posicionará de forma diferenciada, com uma visão, não apenas de cuidar da burocracia, mas sim, de olhar para os números e indicadores da empresa. O Nucont possibilita a valorização do que ele sempre quis fazer e possibilita o aumento do faturamento com isso!Bem, mas antes de... falar mais do Nucont, é importante saber como que eu cheguei até aqui.  Benefícios  Vale Refeição; Vale Transporte",
+    "links": [
+      {
+        "content": "Acesse em ProgramaThor",
+        "href": "https://programathor.com.br/jobs/10683-desenvolvedor-a-pleno?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Programador JavaScript Junior",
-    "salary": "R$ 1,5 mil a R$ 3,5 mil por mês",
+    "salary": "R$ 1,5 mil a R$ 3,5 mil ",
     "location": "Qualquer lugar",
     "company": "App Masters",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsD0NuGPQLOC2cErM2ADab18k1BpYMTVrcz5p_fA&s",
-    "description": "Estamos em um momento de crescimento da empresa, e então criando novos times de desenvolvedores, para trabalhar em projetos nossos e de nossos clientes.\n\nPara esta oportunidade em especial, buscamos devs que realmente tenham skills em React ou Node. Não é...",
+    "description": "Estamos em um momento de crescimento da empresa, e então criando novos times de desenvolvedores, para trabalhar em projetos nossos e de nossos clientes.  Para esta oportunidade em especial, buscamos devs que realmente tenham skills em React ou Node. Não é preciso ser bom nos dois, mas precisa mesmo ser bom em um deles. O JavaScript é fundamental em todo caso.  ## Se seu foco for backend  Se o servidor, a API, o banco de dados e as regras de negócios são as partes que você mais se identifica, então o backend é sua praia.  ### Requisitos - Saber trabalhar com Node - Saber trabalhar com MySql ou Postgres - Testes automatizados  ### São diferenciais - Adonis.js - TypeScript - Docker - Saber realizar deploys ou manter um servidor  ## Se seu foco for frontend  Se pra você o navegador é a parte mais importante, com a interface para o usuário, a usabilidade, a adequação do projeto para vários tipos e tamanhos de telas, então o frontend é seu ponto forte.  ### Requisitos - Saber trabalhar com... React ou React Native - Ter estudado Redux - Conhecer bem CSS e responsividades  ### São diferenciais - Styled Components - Storybook - Cypress - PWA - TypeScript - Next.js",
     "links": [
       {
         "content": "Acesse em Programadores Em Juiz De Fora",
@@ -289,26 +276,26 @@
     ]
   },
   {
-    "title": "Desenvolvedor(a) Back End Pleno - Back-End",
-    "salary": "",
+    "title": "Desenvolvedor Back End",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
-    "company": "Mandic Cloud Solution",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXSSfFKIR-Eazn4ZhNAN7kc_5SctkJDiuzbfiyrj4&s",
-    "description": "Habilidades\nGit, JavaScript, HTML, CSS\n\nO que nós buscamos\nResolver problemas do mundo real com uso de tecnologia;\nLer e Entender software proprietário ou de terceiros;\nEscrever, testar e entregar software de qualidade, seguro e escalável;\nManter e evolui...",
+    "company": "BR GAAP Corporation",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_oxNT-B2mw3QtzDDr5g2MdsOGK0TfpIle6CxV0Y&s",
+    "description": "A BR GAAP é uma organização que se dedica a construir soluções inteligentes e que atua em todo o Brasil, simplificando os processos e aumentando a performance organizacional.  Recomeçamos a cada dia, conectando gente aos diferentes caminhos, integrando elos ao futuro sustentável que almejamos!  O que nos move?  Inovação constante, Excelência, Transparência, Eficiência, Compromisso, Valorização, Reconhecimento, Humanização, Integridade, Dignidade, Ética e Constante Responsabilidade Social.  Vem ser um Gaaper!  Principais Atividades: • Desafiar diariamente seus conhecimentos; • Testar e aplicar novas tecnologias; • Desenvolver aplicações .net C# e frameworks; • Participará das Sprints buscando atender as PBI de requisitos ou de correção/bug; • Criar soluções incríveis usando tecnologias disruptivas. • Requisitos: Cursos de Analise de Sistemas, Tecnologia da Informação ou relacionadas com TI. - .Net C# • Experiencia com ORM • Experiencia com SQL / Postgres • Principio SOLID • POO... (Programação Orientada a Objeto).  Informações adicionais:  Para se integrar no nosso time é importante que você seja capaz de: • Desenvolver autonomia, autogestão e resiliência; • Ter visão sistêmica e análise crítica para se posicionar e contribuir com novas ideias e soluções; • Proatividade e curiosidade, a aprendizagem contínua é altamente necessária em nosso ecossistema; • Ter um perfil colaborativo e trabalhar em harmonia e coesão com a equipe;  Horário de Atendimento ao Cliente: Segunda à Sexta - 8h às 18h  Sede da BR GAAP: Jardim Vitória - Goiânia - Goiás  Local de Trabalho: Remoto ou Híbrido  Oferecemos: Remuneração fixa + Aux. Home Office (R$100,00/Mês) ou Aux. Mobilidade (R$20,00/dia trabalhado de forma presencial) + Aux. Alimentação (R$42,00/dia) + Day-Off + Bolsa de Estudos (até R$200,00/Mês) + Plano de Saúde + Plano Odontológico + Seguro de Vida + Parcerias Educacionais + Plano de Carreira.  Contratação: Cooperativa",
     "links": [
       {
-        "content": "Acesse em ProgramaThor",
-        "href": "https://programathor.com.br/jobs/13150-desenvolvedor-a-back-end-pleno?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em LinkedIn",
+        "href": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-at-br-gaap-corporation-3705625171?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Desenvolvedor",
-    "salary": "R$ 3.150 por mês",
+    "salary": "R$ 3.150 ",
     "location": "Qualquer lugar",
     "company": "Cebraspe",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKEieEOqXgk5wKFhihib9VWXdPmxBqWKpJHYBq5U&s",
-    "description": "Descrição Geral:Empresa: cebraspe vaga: desenvolvedor back-End júnior c# (Informação Confidencial)Realizar levantamento de requisitos de software. Desenvolver aplicações com o uso das melhores práticas de engenharia de software. Realizar a criação de api ...",
+    "description": "Descrição Geral:Empresa: cebraspe vaga: desenvolvedor back-End júnior c# (Informação Confidencial)Realizar levantamento de requisitos de software. Desenvolver aplicações com o uso das melhores práticas de engenharia de software. Realizar a criação de api restful. Jornada: 40h semanais (8h às 18h). Escolaridade: ensino superior completo em análise de sistemas, ciência da computação, processamento de dados, sistemas de informação, informática, engenharia da computação, engenharia de software ou áreas afins. Requisitos: noções básicas de desenvolvimento de software com c# e .Net. Vivência em metodologias de desenvolvimento de software. Conhecimento de ferramentas de versionamento (git).",
     "links": [
       {
         "content": "Acesse em Trabalha Brasil",
@@ -317,55 +304,30 @@
     ]
   },
   {
-    "title": "Analista Programador - home office",
-    "salary": "R$ 2,5 mil por mês",
+    "title": "Desenvolvedor Backend",
+    "salary": "Não informado",
     "location": "Qualquer lugar",
-    "company": "Confidencial",
-    "description": "Empresa localizada na cidade de São Paulo/SP do ramo Informática, contrata Analista Programador. Atribuições: It developer i (pcd)country: brazil what you will be doing como desenvolvedor back-End java júnior você deve possuir conhecimentos fundamentais e...",
+    "company": "LienTech",
+    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
+    "description": "Atuar em time com foco principal em desenvolvimento backend; Auxiliar na definição dos requisitos para criação e manutenção de sistemas/produtos; Participar ativamente do desenho das soluções",
     "links": [
       {
-        "content": "Acesse em Jobzi",
-        "href": "https://jobzi.com/vaga/analista-programador-home-office-qjnybpbt?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      }
-    ]
-  },
-  {
-    "title": "Desenvolvedor back-end Magento JR",
-    "salary": "",
-    "location": "Qualquer lugar",
-    "company": "Nexaas",
-    "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwsTbPoM1TTQY3pKlxD9zoaGOKdiOhxNLxDq6Zss&s",
-    "description": "Nós somos apaixonados pelo varejo e por tudo o que fazemos, somos adeptos da simplicidade e estamos ansiosos e curiosos para conhecer pessoas com esse mesmo propósito. Nossos valores são pautados em entregar a melhor experiência para o cliente, com result...",
-    "links": [
-      {
-        "content": "Acesse em LinkedIn",
-        "href": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-magento-jr-at-nexaas-3755905323?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em NerdIn",
+        "href": "https://www.nerdin.com.br/vaga/69791?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       },
       {
-        "content": "Acesse em Glassdoor",
-        "href": "https://www.glassdoor.com.br/job-listing/desenvolvedor-back-end-magento-jr-carreiras-nexaas-JV_KO0,33_KE34,50.htm?jl=1008958256894&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Nexaas - Gupy",
-        "href": "https://nexaas.gupy.io/jobs/4794482?jobBoardSource=gupy_public_page&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em Indeed",
-        "href": "https://br.indeed.com/viewjob?jk=a4151e396fa5e528&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
-      },
-      {
-        "content": "Acesse em JavaScript Jobs",
-        "href": "https://javascriptjob.xyz/job/2PjA7JbaQbQUEBcavkMjznMxcuT/Desenvolvedor%20back-end%20Magento%20JR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        "content": "Acesse em Empregos Trabajo.org",
+        "href": "https://br.trabajo.org/emprego-1259-20231116-3e252a87ec2f47037c77d1f99cff88e8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
       }
     ]
   },
   {
     "title": "Desenvolvedor(a) Back End Node.JS Júnior - Back-End",
-    "salary": "R$ 3,5 mil por mês",
+    "salary": "R$ 3,5 mil ",
     "location": "Qualquer lugar",
     "company": "Enliv",
     "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthVDKH1pHRaghxgikj81A7xjDxjR647nEvAmyEtM&s",
-    "description": "Habilidades\nAdonisJS, JavaScript, Node.js, PostgreSQL, RESTful\n\nO que nós buscamos\nEstamos em busca de um(a) Desenvolvedor(a) Backend altamente qualificado(a) para se juntar à nossa equipe de tecnologia. Se você é apaixonado por programação, possui sólido...",
+    "description": "Habilidades AdonisJS, JavaScript, Node.js, PostgreSQL, RESTful  O que nós buscamos Estamos em busca de um(a) Desenvolvedor(a) Backend altamente qualificado(a) para se juntar à nossa equipe de tecnologia. Se você é apaixonado por programação, possui sólidos conhecimentos em JavaScript e experiência com o framework AdonisJS, esta é uma oportunidade emocionante para se destacar em um ambiente inovador e colaborativo. Responsabilidades: Desenvolver e manter aplicações backend eficientes e escaláveis utilizando JavaScript e o framework AdonisJS. Colaborar com a equipe de desenvolvimento para projetar e implementar APIs robustas e de alto desempenho. Participar ativamente do ciclo de desenvolvimento de software, desde o planejamento até a entrega. Otimizar o desempenho das aplicações, identificando e resolvendo gargalos e problemas de escalabilidade. Escrever código limpo, legível e bem documentado, seguindo melhores práticas de desenvolvimento.  Principais responsabilidades Pelo menos 2... anos de experiência com desenvolvimento em JavaScript. Experiência sólida com o framework AdonisJS. Conhecimento em banco de dados relacionais e modelagem de dados. Familiaridade com sistemas de controle de versão, como Git. Capacidade de trabalhar de forma independente e em equipe, colaborando com outros membros da equipe de desenvolvimento e áreas afins. Excelentes habilidades de resolução de problemas e pensamento analítico. Atitude proativa e orientada a resultados. Boas habilidades de comunicação oral e escrita. Diferenciais: Experiência com outras linguagens de programação, como Node.js e Python. Familiaridade com práticas ágeis de desenvolvimento e metodologias como Scrum ou Kanban. Conhecimento em desenvolvimento de APIs RESTful. Interesse em manter-se atualizado(a) com as tendências e avanços da tecnologia.  Descrição da empresa Queremos ajudar pessoas e empresas. Estamos aqui para auxiliar a sociedade a passar pela transição verde.  Nós garantimos, de forma extremamente simples, economia mensal na conta de luz de residências e empresas, conectando usinas geradoras de energia limpa a consumidores finais.  Fazemos tudo isso de forma livre. Sem investimentos, sem taxa de adesão e com um contrato extremamente claro e enxuto, sem amarras, pois simplicidade, facilidade e inovação fazem parte do nosso DNA.  Enliv - energia livre ⚡️💚  Benefícios",
     "links": [
       {
         "content": "Acesse em ProgramaThor",
